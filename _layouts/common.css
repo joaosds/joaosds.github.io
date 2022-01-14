@@ -10,3 +10,8 @@
   margin-right: auto;
   width: 80%;
 }
+
+.figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+}
