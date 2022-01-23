@@ -4,12 +4,16 @@ title: Publications
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
 
-<!-- (setq markdown-css-paths '("../style.scss")) -->
-<h1 style="color: #008080;" id=bc>Preprints</h1>
-<ol>
-<li> Oliviero, F., <b> Sobral, J.A. </b>, Andrade, E.C. and Pereira, R.G., 2021. Noncoplanar magnetic orders and gapless chiral spin liquid in the $ J_ {1} $-$ J_ {d} $-$ J_ {\chi} $ model on the kagome lattice. arXiv preprint <a target="_blank" href ="https://arxiv.org/abs/2112.03327"> <i> arXiv:2112.03327. </i><a></li>
-</ol>. The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases seen from the perspective of the spins in the magnetic unit cell can be seen in this <a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif"> <i> link </i> <a>.
+<h1 style="color: #008080;" id=bc>Pre-prints</h1>
 
+<!-- <hr  noshade> -->
+
+<ol>
+<li><a target="_blank" href="https://arxiv.org/abs/2112.03327"><i> (arXiv:2112.03327) </i></a>. Noncoplanar magnetic orders and gapless chiral spin liquid in the $ J_ {1} $-$ J_ {d} $-$ J_ {\chi} $ model on the kagome lattice. Oliviero, F., <b> Sobral, J.A. </b>, Andrade, E.C. and Pereira, R.G., 2021. <br>
+<font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. <!--(<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)--></font></li>
+ The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases seen from the perspective of the spins in the magnetic unit cell can be seen in this <a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif"> <i> link </i> <a>.
+</ol>
+  
 <h1 style="color: #008080;" id=bc>Book Chapters</h1>
 
 <!-- <hr  noshade> -->
