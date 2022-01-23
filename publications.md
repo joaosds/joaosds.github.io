@@ -9,7 +9,7 @@ title: Publications
 <!-- <hr  noshade> -->
 
 <ol>
-<li><a target="_blank" href="https://arxiv.org/abs/2112.03327"><i> (arXiv:2112.03327) </i></a>. Noncoplanar magnetic orders and gapless chiral spin liquid in the $ J_ {1} $-$ J_ {d} $-$ J_ {\chi} $ model on the kagome lattice. Oliviero, F., <b> Sobral, J.A. </b>, Andrade, E.C. and Pereira, R.G., 2021. <br></li>
+<li><a target="_blank" href="https://arxiv.org/abs/2112.03327"><i> (arXiv:2112.03327) </i></a>. Noncoplanar magnetic orders and gapless chiral spin liquid in the $ J_ {1} $-$ J_ {d} $-$ J_ {\chi} $ model on the kagome lattice.
 <font size=2>Oliviero, F.; <b>Sobral, J. A. </b>; Andrade, E. C.; Pereira, R. G.  </font></li>
  
 The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases seen from the perspective of the spins in the magnetic unit cell can be seen in this <a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif"> <i> link </i> </a>.
