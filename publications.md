@@ -4,7 +4,7 @@ title: Publications
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
 
-<h1 style="color: #008080;" id=bc>Pre-prints</h1>
+<h1 style="color: #008080;" id=bc>Preprints</h1>
 
 <!-- <hr  noshade> -->
 
