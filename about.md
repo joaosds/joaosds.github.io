@@ -4,14 +4,13 @@ title: About
 
 <h1 style="color: #00203FFF;"> Hi and Welcome! :) </h1>
 
-<p style="text-align:justify"> I'm a physics master's student at (<a href="https://www2.ifsc.usp.br/english/">IFSC</a>) at the University of São Paulo, São Carlos, Brazil, currently working on the study of spin liquids using numerical and analytical techniques such as the Variational Monte Carlo and mean field theories. In general, my research interests lie on understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and particles; for this challenging endeavor, we use established theoretical and computational methods in physics.</p>
+<p style="text-align:justify"> I'm a physics master's student at (<a href="https://www2.ifsc.usp.br/english/">IFSC</a>) at the University of São Paulo, São Carlos, Brazil, currently working on the study of spin liquids using numerical and analytical techniques such as the Variational Monte Carlo and mean field theories. In general, my research interests lie on understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and particles; for this challenging endeavor, we use established theoretical and computational methods in physics. I'm also deeply interested in the development of new numerical techniques in the context of many-body physics.</p>
 
 <p style="text-align:justify"> For educational purposes, after working with a diverse public for five years I discovered that I really enjoy teaching and developing innovative solutions for teaching physics in a more interesting way. There's nothing better than kindly helping others through education. Apart from Academia and in a methodological sense, software development and data analysis in a broader scope are 'my cup of tea'.   </p>
 
 
 <p style="text-align:justify"> In my spare time, I find comfort in reading, cooking, playing classical and soundtrack pieces on the acoustic guitar, and gazing Nature. 
 <br> <br>
-
 
 <a href="http://lattes.cnpq.br/6559029217359209"> Online CV (Lattes) (Portuguese only)</a> <br>
 
@@ -38,10 +37,8 @@ Optimization of potential energy curves for diatomic molecules in atomic and mol
 <details open>
 <summary><h3 style="color:#008080;display:inline">Master Degree</h3></summary>
 
-<p style="text-align:justify">Since January 2020, I'm working with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil.  Here's a brief summary of what I've been learning:
+<p style="text-align:justify">From January 2020 to March 2022, I worked with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil. My dissertation is available (<a href="../publications#tcc">here</a>).
 </p>
-
-We investigate how spin liquids can be understood over the scope of Parton construction and projected wave functions. The main idea is to decompose the spin degrees of freedom into bosonic or fermionic (Dirac or Majorana) ones constrained by a physical condition. Although Mean field theories are restrictive in the sense that the physical constraint is only imposed on average in the decoupling procedure, they are used to motivate the possible ansätze that may describe the physical ground state of a system described by an effective Hamiltonian motivated by experiments. Numerical techniques such as the Variational Monte Carlo are interesting since they impose the condition exactly at each site, furnishing an environment to learn about competitive phases on frustrated magnetism. We are applying these techniques to a putative chiral spin liquid on the kagome lattice in a collaboration with <a href="https://www.iip.ufrn.br/qiqm/people/our-group/rodrigo-pereira/"> Rodrigo Pereira's group </a> at IIP, Natal.
 <br>
 <br>
   
