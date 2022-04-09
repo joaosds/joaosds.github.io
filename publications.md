@@ -31,7 +31,7 @@ The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases se
 
 <!--<hr style="border: 1px solid" noshade> -->
 
-<h1 style="color: #008080;">Papers in Education </h1>
+<h1 style="color: #008080;">Pedagogy</h1>
 
 <!-- <hr  noshade> -->
 
