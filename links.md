@@ -28,4 +28,4 @@ my favorite media for science communication.
   <li> <a target="_blank" href="https://historyofphilosophy.net/">History of Philosophy without any gaps</a>: A beautiful initiative by Prof. Peter Adamson from LMU and King's College to display the history of knowledge (ancient, medieval and modern philosophy).
   </li>
   </ul>
-
+ 
