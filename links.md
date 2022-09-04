@@ -29,6 +29,7 @@ my favorite media for science communication.
   
   </li>
   </ul>
+  <!--
   <li> <a target="_blank" href="https://q4climate.github.io/">Q4 Climate</a>:
 an inspiring initiative uniting research communities from quantum and climate science, involving industry, government and academia on how emerging quantum technologies are able to reduce or mitigate the climate crisis.
     <ul>
