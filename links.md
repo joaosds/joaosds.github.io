@@ -25,7 +25,7 @@ my favorite media for science communication.
 <h1>Non-physics (directly) related topics</h1>
 
 <ul>
-  <li> <a target="_blank" href="https://historyofphilosophy.net/">History of Philosophy without any gaps</a>: A beautiful initiative by Prof. Peter Adamson to display the history of knowledge (ancient, medieval and modern philosophy). More interestingly, this extends from Europe's common taught thinkers to Arab, Indian, African philosophy etc, while trying to bridge the intersections with other physical sciences - which by definition, shouldn't be absolutely distinguished from philosophy, at least from the initial perspective.
+  <li> <a target="_blank" href="https://historyofphilosophy.net/">History of Philosophy without any gaps</a>: A beautiful initiative by Prof. Peter Adamson from LMU and King's College to display the history of knowledge (ancient, medieval and modern philosophy). More interestingly, this extends from Europe's common taught thinkers to Arab, Indian, African philosophy etc, while trying to bridge the intersections with other physical sciences - which by definition, shouldn't be absolutely distinguished from philosophy, at least from the initial perspective.
   
   </li>
   </ul>
