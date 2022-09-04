@@ -22,9 +22,12 @@ my favorite media for science communication.
 <hr style="border: 1px solid" noshade>
 
 
-<h1>Climate Change</h1>
+<h1>Non-physics (directly) related</h1>
 
 <ul>
+  <li> <a target="_blank" href="https://historyofphilosophy.net/">History of Philosophy without any gaps</a>: A beautiful initiative by Prof. Peter Adamson to display the history of philosophy (ancient, medieval and modern philosophy). More interestingly, this extends from Europe's common taught and tries to bridge the intersections with other physical sciences(which by definition, shouldn't be absolutely distinguished from philosophy, at least from the initial perspective). 
+  
+  </li>
   <li> <a target="_blank" href="https://q4climate.github.io/">Q4 Climate</a>:
 an inspiring initiative uniting research communities from quantum and climate science, involving industry, government and academia on how emerging quantum technologies are able to reduce or mitigate the climate crisis.
     <ul>
