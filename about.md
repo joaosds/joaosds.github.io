@@ -35,6 +35,8 @@ I'm currently a first year Doctoral student at (<a href="https://www.uibk.ac.at/
 
 </p>
 
+</details>
+  
 <ul>
 <li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy (<a target="_blank" href="../files/final-report-spec.pdf">Final report in portuguese)</a>;</li>
 <li>
@@ -60,7 +62,6 @@ Optimization of potential energy curves for diatomic molecules in atomic and mol
 
 </div> -->
 
-</details>
 
 
 <hr style="border: 1px solid" noshade>
