@@ -19,7 +19,15 @@ I'm currently a first year Doctoral student at (<a href="https://www.uibk.ac.at/
 
 <a target="_blank" href="../files/offlinecv_en_joaoa.pdf">Offline CV (English)</a>
 
+<details open>
+<summary><h3 style="color:#008080;display:inline">Master Degree</h3></summary>
 
+<p style="text-align:justify">From January 2020 to March 2022, I worked with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil. My dissertation is available (<a href="../publications#tcc">here</a>).
+</p>
+<br>
+<br>
+  
+  
 <details open>
 <summary><h3 style="color: #008080;display:inline">Bachelor Degree</h3></summary> 
 
@@ -37,14 +45,7 @@ Optimization of potential energy curves for diatomic molecules in atomic and mol
 
 </details>
 
-<details open>
-<summary><h3 style="color:#008080;display:inline">Master Degree</h3></summary>
 
-<p style="text-align:justify">From January 2020 to March 2022, I worked with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil. My dissertation is available (<a href="../publications#tcc">here</a>).
-</p>
-<br>
-<br>
-  
 <!--
 <a target="_blank" href="../files/jasbf2021.pdf">Poster</a> presentation at the <a href="http://sbfisica.org.br/~eosbf/2021/index.php/pt/"> Autumn Meeting of the Brazilian Physical Society 2021 </a> <br>
   
