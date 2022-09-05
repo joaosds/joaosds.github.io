@@ -27,7 +27,7 @@ I'm currently a first year Doctoral student at (<a href="https://www.uibk.ac.at/
 <br>
 <br>
   
-  
+</details>  
 <details open>
 <summary><h3 style="color: #008080;display:inline">Bachelor Degree</h3></summary> 
 
@@ -35,8 +35,6 @@ I'm currently a first year Doctoral student at (<a href="https://www.uibk.ac.at/
 
 </p>
 
-</details>
-  
 <ul>
 <li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy (<a target="_blank" href="../files/final-report-spec.pdf">Final report in portuguese)</a>;</li>
 <li>
