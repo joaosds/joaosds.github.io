@@ -29,7 +29,5 @@ my favorite media for science communication.
   </li>
     <li> <a target="_blank" href="http://brazil-on-guitar.de/tabs.html">Baden Powell's collection</a>: If you play guitar and happen to enjoy brazilian music, here you can find all transcripts for Baden's discography. This <a target="_blank" href="https://chordsandtabs.pagesperso-orange.fr/">website </a> is also quite good. 
   </li>
-  
-  http://brazil-on-guitar.de/tabs.html
   </ul>
  
