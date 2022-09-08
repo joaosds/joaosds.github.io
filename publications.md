@@ -9,7 +9,7 @@ title: Publications
 <!-- <hr  noshade> -->
 
 <ol>
-<li><a target="_blank" href="https://scipost.org/10.21468/SciPostPhys.13.3.050"><i> (arXiv:2112.03327) </i></a> Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality. SciPost Physics, v. 13, p. 050, 2022. <br>
+<li><a target="_blank" href="https://scipost.org/10.21468/SciPostPhys.13.3.050"> Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality</i></a>. SciPost Physics, v. 13, p. 050, 2022. <br>
 <font size=2>Oliviero, F.; <b>Sobral, J. A. </b>; Andrade, E. C.; Pereira, R. G.  </font></li>
 <br>
 The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases seen from the perspective of the spins in the magnetic unit cell can be seen in this <a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif"> <i> link </i> </a>.
