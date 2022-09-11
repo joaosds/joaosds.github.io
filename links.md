@@ -17,7 +17,9 @@ useful tool for exploring relevant related papers;
 a map of all pre-prints on arxiv. Sorting in the category by "age" presents an interesting overview of recent academic production;
 
 * <a target="_blank" href="https://www.quantamagazine.org/">Quanta Magazine</a>:
-my favorite media for science communication.
+my favorite media for science communication;
+
+*<a target="_banlk" href="https://www.physics.mcgill.ca/hackathon/"> McGill Physics Hackathon </a>: great opportunity to practice your coding skills and have fun with friends (old or new ones!). 
 
 <hr style="border: 1px solid" noshade>
 
