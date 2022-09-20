@@ -1,10 +1,10 @@
 ---
 title: - Interesting Links
 ---
-<!--
+
 <h1>Condensed Matter</h1>
 
- * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Eric C. Andrade's group at IFSC-USP.
+ * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Eric C. Andrade's group (USP).
 <h1>Misc</h1> -->
 
 
