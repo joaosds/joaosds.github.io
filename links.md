@@ -23,7 +23,7 @@ my favorite media for science communication;
 
 <hr style="border: 1px solid" noshade>
 
-
+<!--
 <h1>Non-physics (directly) related topics</h1>
 
 <ul>
