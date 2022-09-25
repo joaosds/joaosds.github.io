@@ -9,7 +9,7 @@ title: Publications
 <!-- <hr  noshade> -->
 
 <ol>
-<li><a target="_blank" href="https://scipost.org/10.21468/SciPostPhys.13.3.050"><i> Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality</i></a>. SciPost Physics, v. 13, p. 050, <b> 2022 </b>. <br>
+<li><a target="_blank" href="https://scipost.org/10.21468/SciPostPhys.13.3.050"><i> Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality</i></a>. SciPost Physics, v. 13, p. 050, <b> 2022</b>. <br>
 <font size=2>Oliviero, F.; <b>Sobral, J. A. </b>; Andrade, E. C.; Pereira, R. G.  </font></li>
 <br>
 The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases seen from the perspective of the spins in the magnetic unit cell can be seen in this <a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif"> <i> link </i> </a>.
@@ -20,7 +20,7 @@ The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases se
 <!-- <hr  noshade> -->
 
 <ol>
-<li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>. In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020 </b>, v. 2, p. 19-36. <br>
+<li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>. In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. <br>
 <font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. <!--(<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)--></font></li>
 </ol>
 
