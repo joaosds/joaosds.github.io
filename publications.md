@@ -81,8 +81,7 @@ phenomenology of elementary particles, a revision work was developed focusing on
 comprehension of the Unruh Effect in its necessity for the consistency of quantum field
 theory itself when considering the decay of uniformly accelerated fermions, both in an
 inertial reference frame and in the Rindler wedge frame. Considering particles through
-the formalism of semi-classical currents, another topic of study was the influence of grav-
-itational fields in cooling mechanisms of neutron stars and the possibility of detecting
+the formalism of semi-classical currents, another topic of study was the influence of gravitational fields in cooling mechanisms of neutron stars and the possibility of detecting
 particles that do not obey the famous dispersion relation in Earth’s vicinity. <a target="_blank" href="../files/undergrad-thesis-joao.pdf">View PDF here.</a></div>
 
 
