@@ -23,14 +23,11 @@ title: About
 
 <p align="justify">From January 2020 to March 2022, I worked with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil. My dissertation is available (<a href="../publications#tcc">here</a>).
 </p>
-  
-</details>  
+
 <details open>
 <summary><h3 style="color: #008080;display:inline">Bachelor Degree</h3></summary> 
-
 <p align="justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>), Brazil in June of 2015 and ended it in December 2019. I had the opportunity to work on different year-long projects, approaching themes including:
 </p>
-
 <ul>
 <li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy (<a target="_blank" href="../files/final-report-spec.pdf">Final report in portuguese)</a>;</li>
 <li>
