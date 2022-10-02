@@ -21,7 +21,7 @@ a map of all pre-prints on arxiv. Sorting in the category by "age" presents an i
 * <a target="_blank" href="https://www.quantamagazine.org/">Quanta Magazine</a>:
 my favorite media for science communication;
 
-* <a target="_banlk" href="https://www.physics.mcgill.ca/hackathon/"> McGill Physics Hackathon</a>: great opportunity to practice your coding skills and have fun with friends - old or new ones! 
+* <a target="_banlk" href="https://www.physics.mcgill.ca/hackathon/"> McGill Physics Hackathon</a>: great opportunity to practice your coding skills and have fun with friends - old or new ones! As an example, we created this project about the <a target="_banlk" href="https://mcgill3body.github.io"> Three Body problem </a> with relativistic corrections (props to Felipe for the idea and for being an awesome leader!) in the 2021 edition.
 
 <hr style="border: 1px solid" noshade>
 
