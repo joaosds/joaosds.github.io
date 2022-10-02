@@ -10,14 +10,14 @@ title: About
 
 <!--
 <p style="text-align:justify"> For educational purposes, after working with a diverse public for five years I discovered that I really enjoy teaching and developing innovative solutions for teaching physics in a more interesting way. There's nothing better than kindly helping others through education. Apart from Academia and in a methodological sense, software development and data analysis in a broader scope are 'my cup of tea'.   </p>
--->
+
 <p align="justify"> In my spare time, I find comfort in <a href="https://www.goodreads.com/user/show/117614351-jo-o-augusto-sobral-da-silva">reading</a>, cooking, playing classical and soundtrack pieces on the acoustic guitar, and gazing Nature. 
 <br> <br>
 
 <a href="http://lattes.cnpq.br/6559029217359209"> Online CV (Lattes) (Portuguese only)</a> <br>
 
 <a target="_blank" href="../files/offlinecv_en_joaoa.pdf">Offline CV (English)</a>
-
+-->
 <details open>
 <summary><h3 style="color:#008080;display:inline">Master's Degree</h3></summary>
 <p align="justify">From January 2020 to March 2022, I worked with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil. My dissertation is available (<a href="../publications#tcc">here</a>).
