@@ -3,6 +3,8 @@ title: - Interesting Links
 ---
 
 https://ourworldindata.org/
+https://scipost.org/
+https://www.quantamagazine.org/
 
 <h1>Condensed Matter</h1>
 
