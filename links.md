@@ -2,9 +2,9 @@
 title: - Interesting Links
 ---
 
-https://ourworldindata.org/ \\
-https://scipost.org/ \\ 
-https://www.quantamagazine.org/ \\ 
+https://ourworldindata.org/ <br>
+https://scipost.org/ <br>
+https://www.quantamagazine.org/ <br> 
 
 <h1>Condensed Matter</h1>
 
