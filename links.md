@@ -3,8 +3,7 @@ title: - Interesting Links
 ---
 
 https://ourworldindata.org/
-* <a target="_blank" href="[https://sites.google.com/site/castroeandrade](https://ourworldindata.org/)/"></a>
-* 
+
 <h1>Condensed Matter</h1>
 
  * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (USP).
