@@ -12,6 +12,8 @@ title: - Interesting Links
  * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (USP).
  * <a target="_blank" href="https://www.uibk.ac.at/th-physik/mscheurer/index.html.en"> Quantum Condensed Matter:
 From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (UIBK).
+
+
 <!--
 <h1>Misc</h1> 
 
@@ -30,7 +32,7 @@ my favorite media for science communication;
 * <a target="_banlk" href="https://www.physics.mcgill.ca/hackathon/"> McGill Physics Hackathon</a>: great opportunity to practice your coding skills and have fun with friends - old or new ones! As an example, we created this project about the <a target="_banlk" href="https://mcgill3body.github.io"> Three Body problem </a> with relativistic corrections (props to Felipe for the idea and for being an awesome leader!) in the 2021 edition.
 
 <hr style="border: 1px solid" noshade>
-
+--!>
 <!--
 <h1>Non-physics (directly) related topics</h1>
 
