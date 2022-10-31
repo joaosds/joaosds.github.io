@@ -5,6 +5,7 @@ title: - Interesting Links
 https://ourworldindata.org/ <br>
 https://scipost.org/ <br>
 https://www.quantamagazine.org/ <br> 
+<a target="_banlk" href="https://www.physics.mcgill.ca/hackathon/"> McGill Physics Hackathon</a>
 
 <h1>Condensed Matter</h1>
 
@@ -15,7 +16,7 @@ From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (UIBK
 
 
 <!-- <hr noshade> -->
-
+<!--
 * <a target="_blank" href="https://www.connectedpapers.com/">Connected Papers</a>:
 useful tool for exploring relevant related papers;
 
