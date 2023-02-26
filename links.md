@@ -1,11 +1,14 @@
 ---
-title: - Interesting Links
+layout: default
+title: Interesting Links
 ---
 
 <!-- [Our World in Data](https://ourworldindata.org/)
 [SciPost](https://scipost.org/)
 [Quanta Magazine](https://www.quantamagazine.org/) 
 [McGill Physics Hackathon](https://www.physics.mcgill.ca/hackathon/) -->
+
+- [SciPost](https://scipost.org/) <br>
 
 <h1>Condensed Matter</h1>
 
@@ -15,27 +18,23 @@ From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (UIBK
 
 <h1>Misc</h1>
 
-* <a target ="_blank"  href="https://www.ejmastnak.com/tutorials/vim-latex/intro/"> Real-time LaTeX using (Neo)Vim, VimTeX, and snippets </a>
-* <a target ="_blank"  href="https://www.ejmastnak.com/tutorials/vim-latex/intro/"> Gilles Castel's tutorials for TeX, Vim and Inkscape </a>
-<!--
-<h1>Misc</h1> 
+- [Real-time LaTeX using (Neo)Vim, VimTeX, and snippets](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
+- [Gilles Castel's tutorials for TeX, Vim and Inkscape](https://www.ejmastnak.com/tutorials/vim-latex/intro/">)
+- [nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide)
 
 
-<!-- <hr noshade> -->
-<!--
-* <a target="_blank" href="https://www.connectedpapers.com/">Connected Papers</a>:
-useful tool for exploring relevant related papers;
 
-* <a target="_blank" href="https://paperscape.org/">Paperscape</a>:
-a map of all pre-prints on arxiv. Sorting in the category by "age" presents an interesting overview of recent academic production;
+<h3>Science Communication</h3>
 
-* <a target="_blank" href="https://www.quantamagazine.org/">Quanta Magazine</a>:
-my favorite media for science communication;
+- [PBS Space Time (Youtube)](https://www.youtube.com/@pbsspacetime) 
+- [Kurzgesagt - In a Nutshell (Youtube)](https://www.youtube.com/@pbsspacetime) 
+- [3Blue1Brown (Youtube)](https://www.youtube.com/@pbsspacetime) 
+- [McGill Physics Hackathon](https://www.physics.mcgill.ca/hackathon/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
 
-* <a target="_banlk" href="https://www.physics.mcgill.ca/hackathon/"> McGill Physics Hackathon</a>: great opportunity to practice your coding skills and have fun with friends - old or new ones! As an example, we created this project about the <a target="_banlk" href="https://mcgill3body.github.io"> Three Body problem </a> with relativistic corrections (props to Felipe for the idea and for being an awesome leader!) in the 2021 edition.
 
-<hr style="border: 1px solid" noshade>
---!>
+
+
 <!--
 <h1>Non-physics (directly) related topics</h1>
 
