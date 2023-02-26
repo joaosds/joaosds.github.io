@@ -2,10 +2,10 @@
 title: - Interesting Links
 ---
 
-[Our World in Data](https://ourworldindata.org/)
+<!-- [Our World in Data](https://ourworldindata.org/)
 [SciPost](https://scipost.org/)
 [Quanta Magazine](https://www.quantamagazine.org/) 
-[McGill Physics Hackathon](https://www.physics.mcgill.ca/hackathon/)
+[McGill Physics Hackathon](https://www.physics.mcgill.ca/hackathon/) -->
 
 <h1>Condensed Matter</h1>
 
