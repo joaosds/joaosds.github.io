@@ -16,6 +16,7 @@ From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (UIBK
 <h1>Misc</h1>
 
 * <a target ="_blank"  href="https://www.ejmastnak.com/tutorials/vim-latex/intro/"> Real-time LaTeX using (Neo)Vim, VimTeX, and snippets </a>
+* <a target ="_blank"  href="https://www.ejmastnak.com/tutorials/vim-latex/intro/"> Gilles Castel's tutorials for TeX, Vim and Inkscape </a>
 <!--
 <h1>Misc</h1> 
 
