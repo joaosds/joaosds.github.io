@@ -3,10 +3,6 @@ layout: default
 title: Interesting Links
 ---
 
-<!-- [Our World in Data](https://ourworldindata.org/)
-[SciPost](https://scipost.org/)
-[Quanta Magazine](https://www.quantamagazine.org/) 
-[McGill Physics Hackathon](https://www.physics.mcgill.ca/hackathon/) -->
 
 - [SciPost](https://scipost.org/) <br>
 
@@ -27,8 +23,8 @@ From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (UIBK
 <h3>Science Communication</h3>
 
 - [PBS Space Time (Youtube)](https://www.youtube.com/@pbsspacetime) 
-- [Kurzgesagt - In a Nutshell (Youtube)](https://www.youtube.com/@pbsspacetime) 
-- [3Blue1Brown (Youtube)](https://www.youtube.com/@pbsspacetime) 
+- [Kurzgesagt - In a Nutshell (Youtube)](https://www.youtube.com/@kurzgesagt) 
+- [3Blue1Brown (Youtube)](https://www.youtube.com/@3blue1brown) 
 - [McGill Physics Hackathon](https://www.physics.mcgill.ca/hackathon/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
