@@ -4,7 +4,15 @@ title: Publications
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
 
-<h1 style="color: #008080;" id=bc>Preprints</h1>
+<h1 style="color: #008080;" id=bc>Submitted</h1>
+
+<!-- <hr  noshade> -->
+
+<ol>
+<li><a target="_blank" href="https://doi.org/10.48550/arXiv.2302.12274"><i> Machine Learning Microscopic Form of Nematic Order in twisted double-bilayer graphene</i></a>. arXiv preprint arXiv:2302.12274, <b> 2023</b>. <br>
+<font size=2> <b>JA Sobral; </b>S. Obernauer ; S. Turkel; MS Scheurer.  </font></li>
+</ol>
+<h1 style="color: #008080;" id=bc>Published</h1>
 
 <!-- <hr  noshade> -->
 
