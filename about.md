@@ -25,15 +25,17 @@ title: About
 </details>
 <details open>
 <summary><h3 style="color: #008080;display:inline">Bachelor's Degree</h3></summary> 
-<p align="justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>), Brazil in June of 2015 and ended it in December 2019. I had the opportunity to work on different year-long projects, approaching themes including:
+<p align="justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>), Brazil in June of 2015 and ended it in December 2019.
 </p>
-<ul>
-<li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy (<a target="_blank" href="../files/final-report-spec.pdf">Final report in portuguese)</a>;</li>
-<li>
-Optimization of potential energy curves for diatomic molecules in atomic and molecular physics via genetic algorithms (<a target="_blank" href="../files/final-report-ga.pdf">Final report in portuguese)</a>;</li>
-<li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics (<a href="../publications#bc">Book Chapter</a>); </li>
-<li>Particle physics phenomena in the context of quantum field theory in curved spaces (<a href="../publications#tcc">Undergraduate thesis</a>).</li>
-</ul>
+<!-- I had the opportunity to work on different year-long projects, approaching themes including: -->
+<!-- </p> -->
+<!-- <ul> -->
+<!-- <li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy (<a target="_blank" href="../files/final-report-spec.pdf">Final report in portuguese)</a>;</li> -->
+<!-- <li> -->
+<!-- Optimization of potential energy curves for diatomic molecules in atomic and molecular physics via genetic algorithms (<a target="_blank" href="../files/final-report-ga.pdf">Final report in portuguese)</a>;</li> -->
+<!-- <li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics (<a href="../publications#bc">Book Chapter</a>); </li> -->
+<!-- <li>Particle physics phenomena in the context of quantum field theory in curved spaces (<a href="../publications#tcc">Undergraduate thesis</a>).</li> -->
+<!-- </ul> -->
 </details>
 <!--
 <a target="_blank" href="../files/jasbf2021.pdf">Poster</a> presentation at the <a href="http://sbfisica.org.br/~eosbf/2021/index.php/pt/"> Autumn Meeting of the Brazilian Physical Society 2021 </a> <br>
