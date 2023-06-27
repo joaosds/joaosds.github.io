@@ -42,9 +42,11 @@ The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases se
 
 <ol>
 
-<br>
-<li>Noncoplanar magnetism and gapless chiral spin liquid on the kagome lattice, Solid State Seminar - Universität Innsbruck, May 11, 2022, virtually
-<a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/files/innsbruck2022_csl_joaoa.pdf"> <i> link </i> </a>.
+<li> Machine Learning the Microscopic Form of Nematic Order in twisted double-bilayer graphene, Journal Club for Quantum Physics and Machine Learning - ultracold.org, June 27, <b>2023</b>
+(<a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/files/ultracold.pdf"><i>Slides</i></a>).
+</li>
+<li>Noncoplanar magnetism and gapless chiral spin liquid on the kagome lattice, Solid State Seminar - Universität Innsbruck, May 11, <b> 2022</b> 
+(<a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/files/innsbruck2022_csl_joaoa.pdf"><i>Slides</i></a>).
 </li>
 </ol>
 
