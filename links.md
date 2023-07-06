@@ -5,9 +5,9 @@ title: Interesting Things
 
 
 
- * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (USP).
- * <a target="_blank" href="https://www.uibk.ac.at/th-physik/mscheurer/index.html.en"> Quantum Condensed Matter:
-From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (UIBK).
+ * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (Universidade de São Paulo).
+ * <a target="_blank" href="https://www.itp3.uni-stuttgart.de/scheurer-group/"> Quantum Condensed Matter:
+From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (Universität Stuttgar).
 
 <h3>Misc</h3>
 
