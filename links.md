@@ -7,26 +7,35 @@ title: Interesting Things
 
  * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (Universidade de São Paulo).
  * <a target="_blank" href="https://www.itp3.uni-stuttgart.de/scheurer-group/"> Quantum Condensed Matter:
-From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (Universität Stuttgar).
+From Field Theory to Machine Learning </a>: Prof. Mathias Scheurer's group (Universität Stuttgart).
 
 <h3>Misc</h3>
 
+<h4>Linux/Vim</h4>
+
+- [The Primeagen's introduction to (neo)vim](https://www.youtube.com/watch?v=X6AR2RMB5tE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 - [Real-time LaTeX using (Neo)Vim, VimTeX, and snippets](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 - [Gilles Castel's tutorials for TeX, Vim and Inkscape](https://www.ejmastnak.com/tutorials/vim-latex/intro/">)
 - [nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide)
 
-
-
-<h3>Science Communication</h3>
+<h4>Science Communication</h4>
 
 - [PBS Space Time (Youtube)](https://www.youtube.com/@pbsspacetime) 
-- [Kurzgesagt - In a Nutshell (Youtube)](https://www.youtube.com/@kurzgesagt) 
-- [3Blue1Brown (Youtube)](https://www.youtube.com/@3blue1brown) 
+- [Kurzgesagt - In a Nutshell (Youtube)](https://www.youtube.com/@kurzgesagt)
+- [Artem Kirsanov's neuroscience videos (Youtube)](https://www.youtube.com/@ArtemKirsanov)
+- [3Blue1Brown (Youtube)](https://www.youtube.com/@3blue1brown)
+- [Veritasium (Youtube)](https://www.youtube.com/@veritasium)
 - [McGill Physics Hackathon](https://www.physics.mcgill.ca/hackathon/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
 
-<h3> Tabacaria - Álvaro de Campos (1928) </h3>
+<h3>Art, Poetry and Music</h3>
+
+- [Entire Baden Powell's work transcribed into tabs](https://www.brazil-on-guitar.de/home.html)
+- [Chords&Tabs: Collection of guitar tabs for Brazilian music](https://chordsandtabs.pagesperso-orange.fr/)
+- [Book recommendations](https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites)
+
+<h5> Tabacaria - Álvaro de Campos (1928) </h5>
 
 [Brilhante interpretação por Antônio Abujamra](https://www.youtube.com/watch?v=a1IBpsuCI14)
 
