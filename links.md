@@ -4,15 +4,12 @@ title: Interesting Things
 ---
 
 
-- [SciPost](https://scipost.org/) <br>
-
-<h1>Condensed Matter</h1>
 
  * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (USP).
  * <a target="_blank" href="https://www.uibk.ac.at/th-physik/mscheurer/index.html.en"> Quantum Condensed Matter:
 From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (UIBK).
 
-<h1>Misc</h1>
+<h3>Misc</h3>
 
 - [Real-time LaTeX using (Neo)Vim, VimTeX, and snippets](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 - [Gilles Castel's tutorials for TeX, Vim and Inkscape](https://www.ejmastnak.com/tutorials/vim-latex/intro/">)
@@ -31,7 +28,7 @@ From Field theory to Machine Learning </a>: Prof. Mathias Scheurer's group (UIBK
 
 <h3> Tabacaria - Álvaro de Campos (1928) </h3>
 
-[Brilhante interpretação por Antônio Ambujara](https://www.youtube.com/watch?v=a1IBpsuCI14)
+[Brilhante interpretação por Antônio Abujamra](https://www.youtube.com/watch?v=a1IBpsuCI14)
 
     Não sou nada.
     Nunca serei nada.
