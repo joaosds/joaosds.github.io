@@ -16,6 +16,8 @@ title: Publications
 <ol>
 <li><a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1"><i> Machine learning the microscopic form of nematic order in twisted double-bilayer graphene </i></a>. Nat Commun 14, 5012 <b> 2023</b>. <br>
 <font size=2> <b>JA Sobral; </b>S. Obernauer ; S. Turkel; MS Scheurer.  </font></li>
+<br>
+Data and source code can found in this <a target = "_blank" href = "https://github.com/joaosds/nematic-learning"> <i> GitHub</i> </a> repository.
 
 <li><a target="_blank" href="https://scipost.org/10.21468/SciPostPhys.13.3.050"><i> Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality</i></a>. SciPost Physics, v. 13, p. 050, <b> 2022</b>. <br>
 <font size=2>Oliviero, F.; <b>Sobral, J. A. </b>; Andrade, E. C.; Pereira, R. G.  </font></li>
