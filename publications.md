@@ -24,7 +24,7 @@ title: Publications
 <font size=2>Oliviero, F.; <b>Sobral, J. A. </b>; Andrade, E. C.; Pereira, R. G.  </font></li>
 <br>
 <ul>
-<li>The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases seen from the perspective of the spins in the magnetic unit cell can be seen in this <a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif"> <i> link</i>.</a>.</li>
+<li>The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases seen from the perspective of the spins in the magnetic unit cell can be seen in this <a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif"> <i> link</i>.</a></li>
  <br>
 </ul>
 
