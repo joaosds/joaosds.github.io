@@ -34,7 +34,6 @@ From Field Theory to Machine Learning</a>: Prof. Mathias Scheurer's group (Unive
 - [Entire Baden Powell's work transcribed into tabs](https://www.brazil-on-guitar.de/home.html)
 - [Chords&Tabs: Collection of guitar tabs for Brazilian music](https://chordsandtabs.pagesperso-orange.fr/)
 - [Book recommendations](https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites)
-
 <details open>
 <summary><h5> Tabacaria - Álvaro de Campos (1928) </h4> </summary>
 
