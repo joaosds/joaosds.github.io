@@ -7,7 +7,7 @@ title: Interesting Things
 
  * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (Universidade de São Paulo).
  * <a target="_blank" href="https://www.itp3.uni-stuttgart.de/scheurer-group/"> Quantum Condensed Matter:
-From Field Theory to Machine Learning </a>: Prof. Mathias Scheurer's group (Universität Stuttgart).
+From Field Theory to Machine Learning</a>: Prof. Mathias Scheurer's group (Universität Stuttgart).
 
 <h3>Misc</h3>
 
@@ -29,13 +29,13 @@ From Field Theory to Machine Learning </a>: Prof. Mathias Scheurer's group (Univ
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
 
-<h3>Art, Poetry and Music</h3>
+<h3>Art, Poetry and Music</h4>
 
 - [Entire Baden Powell's work transcribed into tabs](https://www.brazil-on-guitar.de/home.html)
 - [Chords&Tabs: Collection of guitar tabs for Brazilian music](https://chordsandtabs.pagesperso-orange.fr/)
 - [Book recommendations](https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites)
 
-<h5> Tabacaria - Álvaro de Campos (1928) </h5>
+<h5> Tabacaria - Álvaro de Campos (1928) </h4>
 
 [Brilhante interpretação por Antônio Abujamra](https://www.youtube.com/watch?v=a1IBpsuCI14)
 
