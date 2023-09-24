@@ -34,8 +34,8 @@ From Field Theory to Machine Learning</a>: Prof. Mathias Scheurer's group (Unive
 - [Entire Baden Powell's work transcribed into tabs](https://www.brazil-on-guitar.de/home.html)
 - [Chords&Tabs: Collection of guitar tabs for Brazilian music](https://chordsandtabs.pagesperso-orange.fr/)
 - [Book recommendations](https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites)
-<details closed>
-<summary><h4> Tabacaria - Álvaro de Campos (1928) </h4> </summary>
+- 
+<h4> Tabacaria - Álvaro de Campos (1928) </h4> 
 
 [Brilhante interpretação por Antônio Abujamra](https://www.youtube.com/watch?v=a1IBpsuCI14)
 
@@ -224,7 +224,7 @@ From Field Theory to Machine Learning</a>: Prof. Mathias Scheurer's group (Unive
     Acenou-me adeus, gritei-lhe Adeus ó Esteves!, e o universo
     Reconstruiu-se-me sem ideal nem esperança, e o Dono da Tabacaria sorriu.
 
-<details>
+
 <!--
 <h1>Non-physics (directly) related topics</h1>
 
