@@ -38,7 +38,7 @@ From Field Theory to Machine Learning</a>: Prof. Mathias Scheurer's group (Unive
 <h5> Tabacaria - Álvaro de Campos (1928) </h4>
 
 [Brilhante interpretação por Antônio Abujamra](https://www.youtube.com/watch?v=a1IBpsuCI14)
-
+<details open>
     Não sou nada.
     Nunca serei nada.
     Não posso querer ser nada.
@@ -224,7 +224,7 @@ From Field Theory to Machine Learning</a>: Prof. Mathias Scheurer's group (Unive
     Acenou-me adeus, gritei-lhe Adeus ó Esteves!, e o universo
     Reconstruiu-se-me sem ideal nem esperança, e o Dono da Tabacaria sorriu.
 
-
+<details>
 <!--
 <h1>Non-physics (directly) related topics</h1>
 
