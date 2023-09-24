@@ -35,10 +35,11 @@ From Field Theory to Machine Learning</a>: Prof. Mathias Scheurer's group (Unive
 - [Chords&Tabs: Collection of guitar tabs for Brazilian music](https://chordsandtabs.pagesperso-orange.fr/)
 - [Book recommendations](https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites)
 
-<h5> Tabacaria - Álvaro de Campos (1928) </h4>
+<details open>
+<summary><h5> Tabacaria - Álvaro de Campos (1928) </h4> </summary>
 
 [Brilhante interpretação por Antônio Abujamra](https://www.youtube.com/watch?v=a1IBpsuCI14)
-<details open>
+
     Não sou nada.
     Nunca serei nada.
     Não posso querer ser nada.
