@@ -6,9 +6,6 @@ title: Interesting Things
 
 
  * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (Universidade de São Paulo).
- * <a target="_blank" href="https://www.itp3.uni-stuttgart.de/scheurer-group/"> Quantum Condensed Matter:
-From Field Theory to Machine Learning</a>: Prof. Mathias Scheurer's group (Universität Stuttgart).
-
 <h3>Misc</h3>
 
 <h4>Linux/Vim</h4>
