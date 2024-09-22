@@ -125,6 +125,35 @@ for the study the electrocaloric effect and the electrostriction of samples of P
 <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/)"><i>McGill Physics Hackathon 2021</i></a>). </li>
 </ol>
 
+<h1 style="color: #008080;" id=bc>Teaching (Assistant)</h1>
+
+
+<ol>
+<li><a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i> Advanced Quantum Theory</i></a> (Winter Semester 2024/2025), lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+
+<li><a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory </i></a> (Summer Semester 2024), lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
+
+<li><a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i> Advanced Quantum Theory </i></a> (Winter Semester 2023/2024), lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+
+<li>"Introduction to Computational Physics" (1st semester of 2021), lectured by Prof. Francisco Castilho Alcaraz at the University of São Paulo, São Carlos.  </li>
+
+<li>"Methods of Experimental Physics" (2nd semester of 2018), lectured by Prof. Alexandra Mocellin at the University of Brasília. </li>
+
+<li>"Laboratory of Oscillations, Waves and Fluids" (1st semester of 2018), lectured by Prof. Alexandra Mocellin at the University of Brasília. </li>
+
+<li>"Waves, Optics and Thermodynamics" (2nd semester of 2017), lectured by Prof. Clovis Achy Soares Maia at the University of Brasília. </li>
+
+<li>"Computational Methods A" (2nd semester of 2017), lectured by Prof. Luiz Antonio Ribeiro Junior at the University of Brasília. </li>
+
+<li>"Laboratory of Mechanics" (1st semester of 2017), lectured by Prof. Júnio Marcio Rosa Cruz at the University of Brasília. </li>
+
+<li>"Calculus 1" (1st semester of 2016), lectured by different Professors, organized by Prof. Guy Gebrot at the University of Brasília. </li>
+
+</ol>
+
+
+
+
 
 
 
