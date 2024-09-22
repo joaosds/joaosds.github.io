@@ -129,25 +129,25 @@ for the study the electrocaloric effect and the electrostriction of samples of P
 
 
 <ol>
-<li>"<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i>Advanced Quantum Theory</i></a>" (Winter Semester 2024/2025), lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+<li>(Winter Semester 2024/2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i>Advanced Quantum Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
 
-<li>"<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory</i></a>" (Summer Semester 2024), lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
+<li>(Summer Semester 2024) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
 
-<li>"<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i>Advanced Quantum Theory</i></a>" (Winter Semester 2023/2024), lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+<li>(Winter Semester 2023/2024) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i>Advanced Quantum Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
 
-<li>"Introduction to Computational Physics" (1st semester of 2021), lectured by Prof. Francisco Castilho Alcaraz at the University of São Paulo, São Carlos.  </li>
+<li>(1st semester of 2021) "Introduction to Computational Physics", lectured by Prof. Francisco Castilho Alcaraz at the University of São Paulo, São Carlos.  </li>
 
-<li>"Methods of Experimental Physics" (2nd semester of 2018), lectured by Prof. Alexandra Mocellin at the University of Brasília. </li>
+<li>(2nd semester of 2018) "Methods of Experimental Physics", lectured by Prof. Alexandra Mocellin at the University of Brasília. </li>
 
-<li>"Laboratory of Oscillations, Waves and Fluids" (1st semester of 2018), lectured by Prof. Alexandra Mocellin at the University of Brasília. </li>
+<li>(1st semester of 2018) "Laboratory of Oscillations, Waves and Fluids", lectured by Prof. Alexandra Mocellin at the University of Brasília. </li>
 
-<li>"Waves, Optics and Thermodynamics" (2nd semester of 2017), lectured by Prof. Clovis Achy Soares Maia at the University of Brasília. </li>
+<li>(2nd semester of 2017) "Waves, Optics and Thermodynamics", lectured by Prof. Clovis Achy Soares Maia at the University of Brasília. </li>
 
-<li>"Computational Methods A" (2nd semester of 2017), lectured by Prof. Luiz Antonio Ribeiro Junior at the University of Brasília. </li>
+<li>(2nd semester of 2017) "Computational Methods A", lectured by Prof. Luiz Antonio Ribeiro Junior at the University of Brasília. </li>
 
-<li>"Laboratory of Mechanics" (1st semester of 2017), lectured by Prof. Júnio Marcio Rosa Cruz at the University of Brasília. </li>
+<li>(1st semester of 2017) "Laboratory of Mechanics", lectured by Prof. Júnio Marcio Rosa Cruz at the University of Brasília. </li>
 
-<li>"Calculus 1" (1st semester of 2016), lectured by different Professors, organized by Prof. Guy Gebrot at the University of Brasília. </li>
+<li>(1st semester of 2016) "Calculus 1", lectured by different Professors, organized by Prof. Guy Gebrot at the University of Brasília. </li>
 
 </ol>
 
