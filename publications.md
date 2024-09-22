@@ -122,7 +122,7 @@ for the study the electrocaloric effect and the electrostriction of samples of P
 <h1 style="color: #008080;" id=bc>Side Projects</h1>
 
 <ol>
-<li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/)"><i>McGill Physics Hackathon 2021</i></a>). </li>
+<li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). </li>
 </ol>
 
 <h1 style="color: #008080;" id=bc>Teaching (Assistant)</h1>
