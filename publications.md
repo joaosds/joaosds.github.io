@@ -129,11 +129,11 @@ for the study the electrocaloric effect and the electrostriction of samples of P
 
 
 <ol>
-<li><a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i> Advanced Quantum Theory</i></a> (Winter Semester 2024/2025), lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+<li>"<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i>Advanced Quantum Theory</i></a>" (Winter Semester 2024/2025), lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
 
-<li><a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory </i></a> (Summer Semester 2024), lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
+<li>"<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory</i></a>" (Summer Semester 2024), lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
 
-<li><a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i> Advanced Quantum Theory </i></a> (Winter Semester 2023/2024), lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+<li>"<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i>Advanced Quantum Theory</i></a>" (Winter Semester 2023/2024), lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
 
 <li>"Introduction to Computational Physics" (1st semester of 2021), lectured by Prof. Francisco Castilho Alcaraz at the University of São Paulo, São Carlos.  </li>
 
