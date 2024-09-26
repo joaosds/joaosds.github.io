@@ -129,7 +129,7 @@ for the study the electrocaloric effect and the electrostriction of samples of P
 
 
 <ol>
-<li>(Winter Semester 2024/2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i>Advanced Quantum Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+<li>(Winter Semester 2024/2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/fvt2425/ "><i>Fortgeschrittene Vielteilchentheorie</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
 
 <li>(Summer Semester 2024) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
 
