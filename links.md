@@ -27,21 +27,22 @@ title: Interesting Things
 
 
 <h4>Art, Poetry and Music</h4>
-
-- [Entire Baden Powell's work transcribed into tabs](https://www.brazil-on-guitar.de/home.html)
-- [Chords&Tabs: Collection of guitar tabs for Brazilian music](https://chordsandtabs.pagesperso-orange.fr/)
-- [Book recommendations](https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites)
-
-  
-<h4> Tabacaria - Álvaro de Campos (1928) </h4> 
-
-[Brilhante interpretação por Antônio Abujamra](https://www.youtube.com/watch?v=a1IBpsuCI14)
-
+  <ul>
+  <li><a href="https://www.brazil-on-guitar.de/home.html">Entire Baden Powell's work transcribed into tabs</a></li>
+  <li><a href="https://chordsandtabs.pagesperso-orange.fr/">Chords&Tabs: Collection of guitar tabs for Brazilian music</a></li>
+  <li><a href="https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites">Book recommendations</a></li>
+    <li><a href="https://hellopoetry.com/poem/4511459/paul-valery-translation-of-the-graveyard-by-the-sea/">The Graveyard by the Sea - Paul Valéry (1922)</a></li>
+  <li>
+    <details>
+      <summary>Tabacaria - Álvaro de Campos (1928)</summary>
+      <p>Tabacaria is a poem by Álvaro de Campos, a heteronym of the Portuguese poet Fernando Pessoa. <a href="https://www.youtube.com/watch?v=a1IBpsuCI14">Here</a> is a brilliant interpretation by Antônio Abumjara.
+      <blockquote>
+        <p>
+          
     Não sou nada.
     Nunca serei nada.
     Não posso querer ser nada.
     À parte isso, tenho em mim todos os sonhos do mundo.
-
     Janelas do meu quarto,
     Do meu quarto de um dos milhões do mundo que ninguém sabe quem é
     (E se soubessem quem é, o que saberiam?),
@@ -220,8 +221,11 @@ title: Interesting Things
     (O Dono da Tabacaria chegou à porta.)
     Como por um instinto divino o Esteves voltou-se e viu-me.
     Acenou-me adeus, gritei-lhe Adeus ó Esteves!, e o universo
-    Reconstruiu-se-me sem ideal nem esperança, e o Dono da Tabacaria sorriu.
-
+    Reconstruiu-se-me sem ideal nem esperança, e o Dono da Tabacaria sorriu.</p>
+      </blockquote>
+    </details>
+  </li>
+</ul>
 
 <!--
 <h1>Non-physics (directly) related topics</h1>
