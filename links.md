@@ -22,7 +22,6 @@ title: Interesting Things
 - [Artem Kirsanov's neuroscience videos (Youtube)](https://www.youtube.com/@ArtemKirsanov)
 - [3Blue1Brown (Youtube)](https://www.youtube.com/@3blue1brown)
 - [Veritasium (Youtube)](https://www.youtube.com/@veritasium)
-- [McGill Physics Hackathon](https://www.physics.mcgill.ca/hackathon/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
 
