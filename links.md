@@ -6,7 +6,7 @@ title: Interesting Things
  
 
  * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (Universidade de São Paulo).
-<h3>Misc </h3>
+<h3>Misc  </h3>
 
 <h4>Linux/Vim</h4>
 
