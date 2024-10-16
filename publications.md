@@ -1,28 +1,30 @@
 ---
-title: Publications & Projects
+title: Papers & Projects
 ---
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
 
-<!--<h1 style="color: #008080;" id=bc>Submitted</h1> -->
+ <hr  noshade> 
 
-<!-- <hr  noshade> -->
-
+<ol>
+<li><a target="_blank" href="https://arxiv.org/abs/2410.10949"><i>Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling</i></a>, arXiv:2410.10949, <b> 2024</b>. <br>
+<font size=2> With Subrata Mandal and Mathias S. Scheurer.  </font></li> <br>
+<ul>
 
 <h1 style="color: #008080;" id=bc>Published</h1>
-
+</ol>
 <!-- <hr  noshade> -->
 
 <ol>
 <li><a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1"><i> Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>. Nat Commun 14, 5012, <b> 2023</b>. <br>
-<font size=2> <b>JA Sobral; </b>S. Obernauer; S. Turkel; Abhay N. Pasupathy; MS Scheurer.  </font></li> <br>
+<font size=2> With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.  </font></li> <br>
 <ul>
 <li>Data and source code can found in this <a target = "_blank" href = "https://github.com/joaosds/nematic-learning"> <i> GitHub</i> </a> repository. <br /></li>
 <li>See this post on  <a target = "_blank" href = "https://phys.org/news/2023-09-ai-algorithm-microscopic-nematicity-moir.html"> <i> phys.org/dialog</i> </a> for an overview to a general audience. <br /></li>
 </ul>
  <br>
 <li><a target="_blank" href="https://scipost.org/10.21468/SciPostPhys.13.3.050"><i> Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality</i></a>. SciPost Physics, v. 13, p. 050, <b> 2022</b>. <br>
-<font size=2>Oliviero, F.; <b>Sobral, J. A. </b>; Andrade, E. C.; Pereira, R. G.  </font></li>
+<font size=2>With Fabrizio Oliviero, Eric C. Andrade and Rodrigo G. Pereira.  </font></li>
 <br>
 <ul>
 <li>The gif of the continuous phase transition between cuboc-2 and cuboc-1 phases seen from the perspective of the spins in the magnetic unit cell can be seen in this <a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif"> <i> link</i></a>.</li>
