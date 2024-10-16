@@ -4,7 +4,7 @@ title: Papers & Projects
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
 
- <hr  noshade> 
+<!-- <hr  noshade> -->
 
 <ol>
 <li><a target="_blank" href="https://arxiv.org/abs/2410.10949"><i>Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling</i></a>, arXiv:2410.10949, <b> 2024</b>. <br>
