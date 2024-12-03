@@ -12,7 +12,7 @@ title: Interesting Things
 
 - [The Primeagen's introduction to (neo)vim](https://www.youtube.com/watch?v=X6AR2RMB5tE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 - [Real-time LaTeX using (Neo)Vim, VimTeX, and snippets](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
-- [Gilles Castel's tutorials for TeX, Vim and Inkscape](https://www.ejmastnak.com/tutorials/vim-latex/intro/">)
+- [Gilles Castel's tutorials for TeX, Vim and Inkscape](https://castel.dev/post/lecture-notes-1/#vim-and-latex>)
 - [nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide)
 
 <h4>Science Communication</h4>
