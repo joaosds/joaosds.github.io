@@ -6,6 +6,7 @@ title: Papers & Projects
 
 <!-- <hr  noshade> -->
 
+
 <ol>
 <li><a target="_blank" href="https://arxiv.org/abs/2410.10949"><i>Physics-informed Transformers for Electronic Quantum States</i></a>, arXiv:2412.12248, <b> 2024</b>. <br>
 <font size=2> With Michael Perle and Mathias S. Scheurer.  </font></li> <br>
