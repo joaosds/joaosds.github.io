@@ -7,10 +7,15 @@ title: Papers & Projects
 <!-- <hr  noshade> -->
 
 <ol>
+<li><a target="_blank" href="https://arxiv.org/abs/2410.10949"><i>Physics-informed Transformers for Electronic Quantum States</i></a>, arXiv:2412.12248, <b> 2024</b>. <br>
+<font size=2> With Michael Perle and Mathias S. Scheurer.  </font></li> <br>
 <li><a target="_blank" href="https://arxiv.org/abs/2410.10949"><i>Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling</i></a>, arXiv:2410.10949, <b> 2024</b>. <br>
 <font size=2> With Subrata Mandal and Mathias S. Scheurer.  </font></li> <br>
+ 
 </ol>
 <h1 style="color: #008080;" id=bc>Published</h1>
+
+
 
 <!-- <hr  noshade> -->
 
