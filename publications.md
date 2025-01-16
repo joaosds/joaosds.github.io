@@ -154,7 +154,7 @@ for the study the electrocaloric effect and the electrostriction of samples of P
 
 <li>(1st semester of 2017) "Laboratory of Mechanics", lectured by Prof. Júnio Marcio Rosa Cruz at the University of Brasília. </li>
 
-<li>(1st semester of 2016) "Calculus 1", lectured by different Professors, organized by Prof. Guy Gebrot at the University of Brasília. </li>
+<li>(1st semester of 2016) "Calculus 1", lectured by different Professors, organized by Prof. Guy Grebot at the University of Brasília. </li>
 
 </ol>
 
