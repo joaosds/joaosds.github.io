@@ -9,7 +9,7 @@ title: About
 <p align="justify"> I'm currently a PhD student at the <a href="https://www.itp3.uni-stuttgart.de/">ITP III</a> in the University of Stuttgart, Germany. In general, my research interests lie in understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and/or particles. I'm also deeply interested in developing new numerical techniques in the context of physical sciences. </p>
 
 
-Feel free to send me any e-mail through if you want to chat about research, or anything related to this website: 
+Feel free to send me any e-mail if you want to chat about research, or anything related to this website: 
 
 <ul>
   <li>joaoaugustosds@gmail.com</li>
