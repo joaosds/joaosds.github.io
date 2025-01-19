@@ -35,7 +35,7 @@ Feel free to send me any e-mail if you want to chat about research, or anything 
 </details>
 <details open>
 <summary><h3 style="color: #008080;display:inline">Bachelor's Degree</h3></summary> 
-<p align="justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>), Brazil in June of 2015 and ended it in December 2019.
+<p align="justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UnB</a>), Brazil in June of 2015 and ended it in December 2019.
 </p>
 <!-- I had the opportunity to work on different year-long projects, approaching themes including: -->
 <!-- </p> -->
