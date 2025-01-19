@@ -8,6 +8,16 @@ title: About
 -->
 <p align="justify"> I'm currently a PhD student at the <a href="https://www.itp3.uni-stuttgart.de/">ITP III</a> in the University of Stuttgart, Germany. In general, my research interests lie in understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and/or particles. I'm also deeply interested in developing new numerical techniques in the context of physical sciences. </p>
 
+
+Feel free to send me any e-mail through if you want to chat about research, or anything related to this website: 
+
+<ul>
+  <li>joaoaugustosds@gmail.com</li>
+  <li>joao.sobral@itp3.uni-stuttgart.de </li>
+  <li><strike>joao.sobral-da-silva@uibk.ac.at</strike></li>
+  <li><strike>joaoaugustosds@ifsc.usp.br</strike></li>
+</ul>
+
 <!--
 <p style="text-align:justify"> For educational purposes, after working with a diverse public for five years I discovered that I really enjoy teaching and developing innovative solutions for teaching physics in a more interesting way. There's nothing better than kindly helping others through education. Apart from Academia and in a methodological sense, software development and data analysis in a broader scope are 'my cup of tea'.   </p>
 
