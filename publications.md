@@ -136,7 +136,7 @@ for the study the electrocaloric effect and the electrostriction of samples of P
 
 
 <ol>
-!--
+
 <li>(Summer Semester 2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
 <!--
 <li>(Summer Semester 2025) "Hauptseminar on Physics and Machine Learning", co-advising short project on Auto-regressive Sampling for Quantum Many-Body States (organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm at the University of Stuttgart). </li>
