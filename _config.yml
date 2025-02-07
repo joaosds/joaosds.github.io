@@ -76,8 +76,8 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 #custom theme
-#theme: jekyll-theme-minimal
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-midnight
 #theme: no-style-please
 #theme: jekyll-theme-cayman
 
