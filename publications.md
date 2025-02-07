@@ -110,19 +110,6 @@ the formalism of semi-classical currents, another topic of study was the influen
 particles that do not obey the famous dispersion relation in Earth’s vicinity. <a target="_blank" href="../files/undergrad-thesis-joao.pdf">View PDF here.</a></div>
 
 
-<!--
-<hr noshade>
-
-* <h2 id="cnpem">Scientific Reports for Internships at Brazilian Synchrotron Light Lab (LNLS) (Portuguese):</h2>
-<h3>Instrumentation for the Study of the Electrocaloric and the Electrostrictive Effcts</h3>
-<font size=2><b>J.P. Valeriano</b>. Supervisor: A.M.G. Carvalho, Co-supervisor: L.S.O. Paixão, LNLS/CPNEM.</font>
-<div size=2 style="text-align: justify">Project developed during 2018 <a target="_blank" href="https://pages.cnpem.br/bolsasdeverao/">CNPEM Summer Scholarships Program</a>.</div> 
-<div style="text-align: justify">This report presents the beginning of instrumentation development
-for the study the electrocaloric effect and the electrostriction of samples of PVDF and PMN–10PT, by the research groups of the XRD1 beamline and the i-Caloric Materials Lab (LMiC), at LNLS, at CNPEM. Attempts were made to measure electrocalori effect directly, with a thermocouple directly attached to the samples, but no temperature variation was observed with the electric fields application. The prototype of a modified Sawyer–Tower circuit was developed to measure electric polarization, that still needs improvements to operate with the low capacitance samples, and will allow indirect measurements of temperature and entropy variations related to the electrocaloric effect. Electrostriction measurements were made through X ray diffraction with changing electric fields, and small strain results were obtained for the PVDF. <a target="_blank" href="../files/Relatorio_28o_PBV-joao_valeriano.pdf">View PDF here.</a></div>
-
-<hr style="border: 1px solid" noshade>
--->
-
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
 
@@ -138,9 +125,9 @@ for the study the electrocaloric effect and the electrostriction of samples of P
 <ol>
 
 <li>(Summer Semester 2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
-<!--
+
 <li>(Summer Semester 2025) "Hauptseminar on Physics and Machine Learning", co-advising short project on <i>Auto-regressive Sampling for Quantum Many-Body States</i> (organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm at the University of Stuttgart). </li>
---> 
+
  
 <li>(Winter Semester 2024/2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/fqt2425/ "><i>Fortgeschrittene Quantentheorie</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
 
