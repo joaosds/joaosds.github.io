@@ -5,8 +5,10 @@ title: Interesting Things
 
  
 
- * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (Universidade de São Paulo).
-<h3>Misc  </h3>
+ * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Novel quantum materials</a>: Prof. Eric C. Andrade's group (University of São Paulo).
+ * <a target="_blank" href="https://www.itp3.uni-stuttgart.de/scheurer-group/"> Scheurer's group </a> (University of Stuttgart).
+
+
 
 <h4>Linux/Vim</h4>
 
