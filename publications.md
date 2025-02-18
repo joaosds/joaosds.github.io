@@ -51,12 +51,14 @@ title: Papers & Projects
 <li><a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0375960120301894"><i>Non-monotonous behavior of the number variance, Mandel factor, invariant uncertainty product and purity for the quantum damped harmonic oscillator</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
 <font size=2><b>J.P. Valeriano</b>, V.V. Dodonov. (<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)</font></li>
 </ol> -->
-<h1 style="color: #008080;" id=bc>Presentations</h1>
+<h1 style="color: #008080;" id=bc>Poster presentations and talks</h1>
 
 <!-- <hr  noshade> -->
 
 <ol>
-
+<li> Physics-Informed transformers for electronic quantum states, Generative models for classical and quantum matter (CECAM), December 3, <b>2024</b>
+(<a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/files/cecam.pdf"><i>Slides</i></a>).
+</li>
 <li> Machine Learning the Microscopic Form of Nematic Order in twisted double-bilayer graphene, Journal Club for Quantum Physics and Machine Learning - ultracold.org, June 27, <b>2023</b>
 (<a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/files/ultracold.pdf"><i>Slides</i></a>).
 </li>
