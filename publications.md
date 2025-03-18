@@ -24,8 +24,7 @@ title: Papers & Projects
 <li><a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1"><i> Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>. Nat Commun 14, 5012, <b> 2023</b>. <br>
 <font size=2> With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.  </font></li> <br>
   <figure>
-      <img src="images/pnemat.png" width="100%" height="auto">
-      <figcaption>Image related to the nematic order paper</figcaption>
+      <img src="images/pnemat.png" width="70%" height="auto">
     </figure>
 <ul>
 <li>Data and source code can found in this <a target = "_blank" href = "https://github.com/joaosds/nematic-learning"> <i> GitHub</i> </a> repository. <br /></li>
