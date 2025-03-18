@@ -29,9 +29,7 @@ title: Interesting Things
 
 <h4>Art, Poetry and Music</h4>
   <ul>
-  <li><a href="https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites">Goodreads lists</a></li>
    <li><a href="https://www.albumoftheyear.org/user/joaoasds/lists/"> AOTY lists </a></li>
-   <li><a href="https://letterboxd.com/joaoasds/lists/"> Letterboxd lists </a></li>
     <li><a href="https://hellopoetry.com/poem/4511459/paul-valery-translation-of-the-graveyard-by-the-sea/">The Graveyard by the Sea - Paul Valéry (1922)</a></li>
   <li>
     <details>
