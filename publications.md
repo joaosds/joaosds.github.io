@@ -25,7 +25,7 @@ title: Papers & Projects
 <font size=2> With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.  </font></li> <br>
  <div style="text-align: center;">
   <figure>
-      <img src="images/pnemat.png" width="50%" height="auto"> 
+      <img src="images/pnemat.jpg" width="50%" height="auto"> 
     </figure>
 </div>
   <ul>
