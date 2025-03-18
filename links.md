@@ -29,7 +29,6 @@ title: Interesting Things
 
 <h4>Art, Poetry and Music</h4>
   <ul>
-  <li><a href="https://www.brazil-on-guitar.de/home.html">Entire Baden Powell's work transcribed into tabs</a></li>
   <li><a href="https://www.goodreads.com/review/list/117614351-jo-o-augusto-sobral-da-silva?shelf=favorites">Goodreads lists</a></li>
    <li><a href="https://www.albumoftheyear.org/user/joaoasds/lists/"> AOTY lists </a></li>
    <li><a href="https://letterboxd.com/joaoasds/lists/"> Letterboxd lists </a></li>
