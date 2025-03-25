@@ -29,7 +29,7 @@ title: Papers & Projects
 <li><a target="_blank" href="https://scipost.org/10.21468/SciPostPhys.13.3.050"><i> Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality</i></a>. SciPost Physics, v. 13, p. 050, <b> 2022</b>. <br>
 <font size=2>With Fabrizio Oliviero, Eric C. Andrade and Rodrigo G. Pereira.  </font></li>
 <figure>
-  <img src="../images/pnoncop.jpg" width="50%" height="auto">
+  <img src="../images/pnoncop.png" width="50%" height="auto">
 </figure>
 <br>
 
