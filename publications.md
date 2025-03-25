@@ -75,8 +75,7 @@ title: Papers & Projects
 <!-- <hr noshade> -->
 <ol>
 <li>
-<a target="_blank" href="https://www.teses.usp.br/teses/disponiveis/76/76134/tde-06042022-111534/en.php">Master's Thesis</a>: Investigating spin liquids via projected wavefunctions (<b>2022</b>)
-<font size=2>. Advisor <a targe="_blank" href="https://sites.google.com/site/castroeandrade/home?authuser=0">Eric C. Andrade </a>. Universidade de São Paulo.</font>
+<a target="_blank" href="https://www.teses.usp.br/teses/disponiveis/76/76134/tde-06042022-111534/en.php">Master's Thesis</a>: Investigating spin liquids via projected wavefunctions (<b>2022</b>). Advisor: <a targe="_blank" href="https://sites.google.com/site/castroeandrade/home?authuser=0">Eric C. Andrade</a>. Universidade de São Paulo.
 </li>
   <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). 
    <br> <font size=2>With P.H. Cintra, I. Reis, F. Fontinele and V. Dantas. </font></li>   <br> 
