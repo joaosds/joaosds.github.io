@@ -71,7 +71,7 @@ title: Papers & Projects
 </li>
 <li>
 <a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR): </a>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime.
-<font size=2><b>J.A.S. Silva</b>. Supervisor: <a targe="_blank" href="https://www.fis.unb.br/index.php?option=com_myjspace&view=see&pagename=clovis">C. A. S. Maia.</a> Universidade de Brasília.</font>
+<font size=2><b>J.A.S. Silva</b>. Supervisor: C. A. S. Maia.Universidade de Brasília.</font>
 <div style="text-align: justify">
 
 <li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>.<font size=2>  In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. </font><br><font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. </font></li>
