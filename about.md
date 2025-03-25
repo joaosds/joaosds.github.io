@@ -6,7 +6,7 @@ title: About
 <!--
 <p style="text-align:justify"> I'm a physics master's student at (<a href="https://www2.ifsc.usp.br/english/">IFSC</a>) at the University of São Paulo, São Carlos, Brazil, currently working on the study of spin liquids using numerical and analytical techniques such as the Variational Monte Carlo and mean field theories. In general, my research interests lie on understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and particles; for this challenging endeavor, we use established theoretical and computational methods in physics. I'm also deeply interested in the development of new numerical techniques in the context of many-body physics.</p>
 -->
-<p align="justify"> I'm currently a PhD student at the <a href="https://www.itp3.uni-stuttgart.de/">ITP III</a> in the University of Stuttgart, Germany. In general, my research interests lie in understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and/or particles. I'm also deeply interested in developing new numerical techniques in the context of physical sciences. </p>
+<p align="justify"> I'm currently a PhD student at the <a href="https://www.itp3.uni-stuttgart.de/">ITP III</a> in the University of Stuttgart, Germany. In interested in understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature. I'm also deeply interested in developing new numerical techniques in the context of physical sciences. </p>
  
 
 Feel free to send me any e-mail if you want to chat about research, or anything related to this website: 
@@ -26,7 +26,7 @@ Feel free to send me any e-mail if you want to chat about research, or anything 
 
 <a target="_blank" href="../files/offlinecv_en_joaoa.pdf">Offline CV (English)</a>
 -->
-<details open>
+<!-- <details open>
 <summary><h3 style="color:#008080;display:inline">Master's Degree</h3></summary>
 <p align="justify">From January 2020 to March 2022, I worked with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil. My dissertation is available (<a href="../publications#tcc">here</a>).
 </p>
@@ -35,6 +35,7 @@ Feel free to send me any e-mail if you want to chat about research, or anything 
 <summary><h3 style="color: #008080;display:inline">Bachelor's Degree</h3></summary> 
 <p align="justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UnB</a>), Brazil in June of 2015 and ended it in December 2019.
 </p>
+-->
 <!-- I had the opportunity to work on different year-long projects, approaching themes including: -->
 <!-- </p> -->
 <!-- <ul> -->
@@ -44,20 +45,10 @@ Feel free to send me any e-mail if you want to chat about research, or anything 
 <!-- <li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics (<a href="../publications#bc">Book Chapter</a>); </li> -->
 <!-- <li>Particle physics phenomena in the context of quantum field theory in curved spaces (<a href="../publications#tcc">Undergraduate thesis</a>).</li> -->
 <!-- </ul> -->
-</details>
+
 <!--
 <a target="_blank" href="../files/jasbf2021.pdf">Poster</a> presentation at the <a href="http://sbfisica.org.br/~eosbf/2021/index.php/pt/"> Autumn Meeting of the Brazilian Physical Society 2021 </a> <br>
   
-<a target="_blank" href="../files/posterSIFSC11.pdf">Poster</a> presentation at the <a href="https://sifsc.ifsc.usp.br/"> Semana Integrada da Graduação e Pós-Graduação do Instituto de Física de São Carlos 2021:</a>
-
-<ul>
-<li>  <a href="https://www.youtube.com/watch?v=JE6LxKKkF-A"> Presentation </a> at youtube (portuguese only).</li>
-</ul>
-<div style="text-align: center;">
-
-  <img src="../images/bitmap.png"  style="width: 55vw;height: auto;" >
-
-</div> -->
 
 <hr style="border: 1px solid" noshade>
 
