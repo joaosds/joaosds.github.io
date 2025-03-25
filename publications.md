@@ -1,5 +1,5 @@
 ---
-title: Papers & Projects
+title: Research
 ---
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
