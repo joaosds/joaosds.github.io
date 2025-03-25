@@ -14,8 +14,6 @@ Feel free to send me any e-mail if you want to chat about research, or anything 
 <ul>
   <li>joaoaugustosds@gmail.com</li>
   <li>joao.sobral@itp3.uni-stuttgart.de </li>
-  <li><strike>joao.sobral-da-silva@uibk.ac.at</strike></li>
-  <li><strike>joaoaugustosds@ifsc.usp.br</strike></li>
 </ul>
 
 <!--
