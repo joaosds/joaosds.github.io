@@ -74,8 +74,8 @@ title: Papers & Projects
 <div style="text-align: justify">
 </li>
 
-<li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>. In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. <br>
-<font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. <!--(<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)--></font></li>
+<li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>.<font size=2>  In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. </font><br>
+<font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. </font></li>
 
 <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). </li>
 </ol>
