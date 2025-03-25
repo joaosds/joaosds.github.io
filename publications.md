@@ -79,7 +79,7 @@ title: Papers & Projects
   <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). 
    <br> <font size=2>With F. Fontinele, P.H. Cintra, I. Reis and V. Dantas. </font></li>   <br> 
 <li>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime, <b>2019</b>, <a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR)</a>, Universidade de Brasília. Advisor: C. A. S. Maia. </li><br> 
-<li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>.<font size=2>  In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. </font> <br> 
+<li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>, <b> 2020</b>.<font size=2>  In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., v. 2, p. 19-36. </font> <br> 
   <font size=2>   With L.S.F. Olavo and Ferreira, M. </font></li> <br> 
 
 </ol>
