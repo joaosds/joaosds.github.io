@@ -79,6 +79,7 @@ title: Papers & Projects
 <font size=2>. Supervisor: <a targe="_blank" href="https://sites.google.com/site/castroeandrade/home?authuser=0">Eric C. Andrade </a>. Universidade de São Paulo.</font>
 </li>
   <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). <font size=2>With P.H. Cintra, I. Reis, F. Fontinele and V. Dantas. </font></li> 
+<li>
 <a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR): </a>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime. (<b>2019</b>)
 <font size=2>. Supervisor: C. A. S. Maia. Universidade de Brasília.</font> </li>
 <li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>.<font size=2>  In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. With L.S.F. Olavo and Ferreira, M. </font></li>
