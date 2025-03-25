@@ -77,7 +77,7 @@ title: Papers & Projects
 <li>Investigating spin liquids via projected wavefunctions, <b>2022</b>, <a target="_blank" href="https://www.teses.usp.br/teses/disponiveis/76/76134/tde-06042022-111534/en.php">Master's Thesis</a>, Universidade de São Paulo. Advisor: <a targe="_blank" href="https://sites.google.com/site/castroeandrade/home?authuser=0">Eric C. Andrade</a>.<br> <br> 
 </li>
   <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). 
-   <br> <font size=2>With P.H. Cintra, I. Reis, F. Fontinele and V. Dantas. </font></li>   <br> 
+   <br> <font size=2>With F. Fontinele, P.H. Cintra, I. Reis and V. Dantas. </font></li>   <br> 
 <li>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime, <b>2019</b>, <a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR)</a>, Universidade de Brasília. Advisor: C. A. S. Maia. </li><br> 
 <li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>.<font size=2>  In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. </font> <br> 
   <font size=2>   With L.S.F. Olavo and Ferreira, M. </font></li> <br> 
