@@ -85,14 +85,14 @@ title: Papers & Projects
 
 <ol>
 
-<li>(Summer Semester 2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
+<li>(Summer Semester 2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft25/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
 
 <li>(Summer Semester 2025) "Hauptseminar on Physics and Machine Learning", co-advising short project on <i>Auto-regressive Sampling for Quantum Many-Body States</i> (organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm at the University of Stuttgart). </li>
 
  
-<li>(Winter Semester 2024/2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/fqt2425/ "><i>Fortgeschrittene Quantentheorie</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+<li>(Winter Semester 2024/2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2425/fqt2425/"><i>Fortgeschrittene Quantentheorie</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
 
-<li>(Summer Semester 2024) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/qft24/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
+<li>(Summer Semester 2024) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ss24/qft24/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
 
 <li>(Summer Semester 2024) "Hauptseminar on Moiré Materials and Magnetism", co-advising short project on <i>Wannier Obstructions</i> (organized by Prof. Mathias Scheurer and Prof. Maria Daghofer at the University of Stuttgart). </li>
 
