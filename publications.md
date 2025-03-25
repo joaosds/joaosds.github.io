@@ -66,20 +66,20 @@ title: Papers & Projects
 <!-- <hr noshade> -->
 <ol>
 <li>
-<a target="_blank" href="https://www.teses.usp.br/teses/disponiveis/76/76134/tde-06042022-111534/en.php">Master's Thesis</a>: Investigating spin liquids via projected wavefunctions
+<a target="_blank" href="https://www.teses.usp.br/teses/disponiveis/76/76134/tde-06042022-111534/en.php">Master's Thesis</a>: Investigating spin liquids via projected wavefunctions. <b>2022</b>
 <font size=2><b>J.A.S. Silva</b>. Supervisor: <a targe="_blank" href="https://sites.google.com/site/castroeandrade/home?authuser=0">Eric C. Andrade </a>. Universidade de São Paulo.</font>
 </li>
+  <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). </li>
 <li>
-<a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR): </a>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime.
-<font size=2><b>J.A.S. Silva</b>. Supervisor: C. A. S. Maia.Universidade de Brasília.</font>
+<a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR): </a>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime. <b>2019</b>
+<font size=2><b>J.A.S. Silva</b>. Supervisor: C. A. S. Maia. Universidade de Brasília.</font>
 <div style="text-align: justify">
-
 <li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>.<font size=2>  In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. </font><br><font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. </font></li>
 
-<li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). </li>
+
 </ol>
 
-<h2 style="color: #008080;" id=bc>Teaching (Assistant)</h2>
+<h2 style="color: #008080;" id=bc>Teaching Experience</h2>
 
 
 <ol>
