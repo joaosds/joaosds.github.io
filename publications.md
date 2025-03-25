@@ -15,11 +15,12 @@ title: Papers & Projects
 
 
 <!-- <hr  noshade> -->
+
+<li><a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1"><i> Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>. Nat Commun 14, 5012, <b> 2023</b>. <br>
+<font size=2> With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.  </font></li> <br>
 <figure>
   <img src="../images/pnemat.jpg" width="50%" height="auto">
 </figure>
-<li><a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1"><i> Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>. Nat Commun 14, 5012, <b> 2023</b>. <br>
-<font size=2> With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.  </font></li> <br>
   <ul>
 <li>Data and source code can found in this <a target = "_blank" href = "https://github.com/joaosds/nematic-learning"> <i> GitHub</i> </a> repository. <br /></li>
 <li>See this post on  <a target = "_blank" href = "https://phys.org/news/2023-09-ai-algorithm-microscopic-nematicity-moir.html"> <i> phys.org/dialog</i> </a> for an overview to a general audience. <br /></li>
@@ -69,10 +70,9 @@ title: Papers & Projects
 <font size=2><b>J.A.S. Silva</b>. Supervisor: <a targe="_blank" href="https://sites.google.com/site/castroeandrade/home?authuser=0">Eric C. Andrade </a> Universidade de São Paulo.</font>
 </li>
 <li>
-<a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR): </a></div>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime
+<a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR): </a>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime
 <font size=2><b>J.A.S. Silva</b>. Supervisor: <a targe="_blank" href="https://www.fis.unb.br/index.php?option=com_myjspace&view=see&pagename=clovis">C. A. S. Maia.</a> Universidade de Brasília.</font>
 <div style="text-align: justify">
-</li>
 
 <li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>.<font size=2>  In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., <b> 2020</b>, v. 2, p. 19-36. </font><br>
 <font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. </font></li>
