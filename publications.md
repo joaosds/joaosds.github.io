@@ -12,14 +12,12 @@ title: Papers & Projects
 <font size=2> With Michael Perle and Mathias S. Scheurer.  </font></li> <br>
 <li><a target="_blank" href="https://arxiv.org/abs/2410.10949"><i>Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling</i></a>, arXiv:2410.10949, <b> 2024</b>. <br>
 <font size=2> With Subrata Mandal and Mathias S. Scheurer.  </font></li> <br>
-  
-</ol>
-<h2 style="color: #008080;" id=bc>Published</h2>
 
 
 <!-- <hr  noshade> -->
-
-<ol>
+<figure>
+  <img src="../images/pnemat.jpg" width="50%" height="auto">
+</figure>
 <li><a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1"><i> Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>. Nat Commun 14, 5012, <b> 2023</b>. <br>
 <font size=2> With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.  </font></li> <br>
   <ul>
