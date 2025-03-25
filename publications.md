@@ -73,8 +73,7 @@ title: Papers & Projects
 <a target="_blank" href="https://www.teses.usp.br/teses/disponiveis/76/76134/tde-06042022-111534/en.php">Master's Thesis</a>: Investigating spin liquids via projected wavefunctions. <b>2022</b>
 <font size=2>. Supervisor: <a targe="_blank" href="https://sites.google.com/site/castroeandrade/home?authuser=0">Eric C. Andrade </a>. Universidade de São Paulo.</font>
 </li>
-  <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). <font size=2>With P.H. Cintra, I. Reis, F. Fontinele and V. Dantas. </font></li> </li>
-<li>
+  <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). <font size=2>With P.H. Cintra, I. Reis, F. Fontinele and V. Dantas. </font></li> 
 <a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR): </a>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime. <b>2019</b>
 <font size=2><b>J.A.S. Silva</b>. Supervisor: C. A. S. Maia. Universidade de Brasília.</font>
 <div style="text-align: justify">
