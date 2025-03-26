@@ -2,7 +2,6 @@
 title: About 
 ---
 
-<h1 style="color: #00203FFF;"> Hi and welcome! :) </h1>
 
 <p align="justify"> I'm currently a PhD student at the <a href="https://www.itp3.uni-stuttgart.de/">ITP III</a> in the University of Stuttgart, Germany. I devote my time to understand, in different levels, how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature. I'm also deeply interested in developing, extending and applying numerical techniques in the context of physical sciences. </p>
  
