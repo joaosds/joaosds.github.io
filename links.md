@@ -3,11 +3,6 @@ layout: default
 title: Interesting Things
 ---
 
- 
-
- * <a target="_blank" href="https://sites.google.com/site/castroeandrade/"> Andrade's group </a> (University of São Paulo).
- * <a target="_blank" href="https://www.itp3.uni-stuttgart.de/scheurer-group/"> Scheurer's group </a> (University of Stuttgart).
-
 
 
 <h4>Linux/Vim</h4>
