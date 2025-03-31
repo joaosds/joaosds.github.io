@@ -6,7 +6,7 @@
 name: 
 
 # Short bio or description (displayed in the header)
-description: Welcome!
+description: 
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -21,7 +21,7 @@ background: teste.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: joaoaugustosds@gmail.com
+  email:
   facebook:
   flickr:
   github: joaosds
@@ -29,7 +29,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: joaoasds
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
