@@ -34,14 +34,3 @@ title: Interesting Things
     </details>
   </li>
 </ul>
-
-<!--
-<h1>Non-physics (directly) related topics</h1>
-
-<ul>
-  <li> <a target="_blank" href="https://historyofphilosophy.net/">History of Philosophy without any gaps</a>: A beautiful initiative by Prof. Peter Adamson from LMU and King's College to display the history of knowledge (ancient, medieval and modern philosophy).
-  </li>
-    <li> <a target="_blank" href="http://brazil-on-guitar.de/tabs.html">Baden Powell's collection</a>: If you play guitar and happen to enjoy brazilian music, here you can find all transcripts for Baden's discography. This <a target="_blank" href="https://chordsandtabs.pagesperso-orange.fr/">website </a> is also quite good. 
-  </li>
-  </ul>
- -->
