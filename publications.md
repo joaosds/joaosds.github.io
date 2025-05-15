@@ -14,7 +14,7 @@ title: Research
   <img src="../images/ptransf.png" width="50%" height="auto">
 </figure>
 
-<li><a target="_blank" href="https://arxiv.org/abs/2410.10949"><i>Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling</i></a>, arXiv:2410.10949, <b> 2024</b>. <br>
+<li><a target="_blank" href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152"><i>Fractionalized altermagnets: From neighboring and altermagnetic spin liquids to spin-symmetric band splitting</i></a>, Phys. Rev. Research 7, 023152, <b> 2025</b>. <br>
 <font size=2> With Subrata Mandal and Mathias S. Scheurer.  </font></li> <br>
 <figure>
   <img src="../images/palter.png" width="50%" height="auto">
