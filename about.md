@@ -5,7 +5,7 @@ title: About
 
 <p align="justify"> I'm currently a PhD student at the <a href="https://www.itp3.uni-stuttgart.de/">ITP III</a>. I devote my time to understand, at different levels, how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature. I'm also deeply interested in developing, extending and applying numerical techniques in the context of physical sciences. </p>
  
-If there's anything you would like to talk about research, please feel free to send me an e-mail through
+If there's anything you would like to discuss about research please feel free to reach out through
 
 <ul>
   <li>joaoaugustosds@gmail.com</li>
