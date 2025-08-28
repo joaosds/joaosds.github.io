@@ -79,7 +79,6 @@ title: Research
   <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). 
    <br> <font size=2>With F. Fontinele, P.H. Cintra, I. Reis and V. Dantas. </font></li>   <br> 
 <li>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime, <b>2019</b>, <a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR)</a>, Universidade de Brasília. Advisor: C. A. S. Maia. </li><br> 
-  <font size=2>   With L.S.F. Olavo and M. Ferreira. </font></li> <br> 
 
 </ol>
 
