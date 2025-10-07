@@ -14,7 +14,12 @@ title: Research
   <img src="../images/ptransf.png" width="50%" height="auto">
 </figure>
 
-<li><a target="_blank" href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152"><i>Fractionalized altermagnets: From neighboring and altermagnetic spin liquids to spin-symmetric band splitting</i></a>, Phys. Rev. Research 7, 023152, <b> 2025</b>. <br>
+<ul>
+<li>Source code can be found in this <a target = "_blank" href = "https://github.com/joaosds/PITransf"> <i> GitHub</i></a> repository. <br /></li>
+</ul>
+<br>
+ 
+<[[[li><a target="_blank" href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152"><i>Fractionalized altermagnets: From neighboring and altermagnetic spin liquids to spin-symmetric band splitting</i></a>, Phys. Rev. Research 7, 023152, <b> 2025</b>. <br>
 <font size=2> With Subrata Mandal and Mathias S. Scheurer.  </font></li> <br>
 <figure>
   <img src="../images/palter.png" width="50%" height="auto">
@@ -28,7 +33,7 @@ title: Research
   <img src="../images/pnemat.jpg" width="50%" height="auto">
 </figure>
   <ul>
-<li>Data and source code can found in this <a target = "_blank" href = "https://github.com/joaosds/nematic-learning"> <i> GitHub</i> </a> repository. <br /></li>
+<li>Data and source code can be found in this <a target = "_blank" href = "https://github.com/joaosds/nematic-learning"> <i> GitHub</i> </a> repository. <br /></li>
 <li>See this post on  <a target = "_blank" href = "https://phys.org/news/2023-09-ai-algorithm-microscopic-nematicity-moir.html"> <i> phys.org/dialog</i> </a> for an overview to a general audience. <br /></li>
 </ul>
  <br>
