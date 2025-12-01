@@ -8,7 +8,7 @@ title: Research
 
 
 <ol>
-<li><a target="_blank" href="https://arxiv.org/abs/2412.12248"><i>Physics-informed Transformers for Electronic Quantum States</i></a>, arXiv:2412.12248, <b> 2024</b>. <br>
+<li><a target="_blank" href="https://www.nature.com/articles/s41467-025-66844-z"><i>Physics-informed Transformers for Electronic Quantum States</i></a>, Nat. Commun. 16, 10811, <b> 2025</b>. <br>
 <font size=2> With Michael Perle and Mathias S. Scheurer.  </font></li> <br>
   <figure>
   <img src="../images/ptransf.png" width="50%" height="auto">
@@ -27,7 +27,7 @@ title: Research
 
 <!-- <hr  noshade> -->
 
-<li><a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1"><i> Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>. Nat Commun 14, 5012, <b> 2023</b>. <br>
+<li><a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1"><i> Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>. Nat. Commun. 14, 5012, <b> 2023</b>. <br>
 <font size=2> With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.  </font></li> <br>
 <figure>
   <img src="../images/pnemat.jpg" width="50%" height="auto">
