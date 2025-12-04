@@ -174,12 +174,13 @@ title: Research
     Lectured by Prof. Mathias Scheurer, University of Stuttgart.
     <br>
     <b>Hauptseminar on Moiré Materials and Magnetism</b>
-    <br>
-    Organized by Prof. Mathias Scheurer and Prof. Maria Daghofer.
-    <br>
-    <span style="font-size: 14px; font-style: italic;">
+        <br>
+    <span style="font-size: 15px; font-style: italic;">
     Co-advised short project on <i>Wannier Obstructions</i>.  
     </span>
+    <br>
+    Organized by Prof. Mathias Scheurer and Prof. Maria Daghofer.
+
   </div>
 </div>
 
