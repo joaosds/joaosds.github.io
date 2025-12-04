@@ -300,3 +300,39 @@ summary{
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+/* --- Publication layout --- */
+
+.pub-entry {
+  display: flex;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.pub-image img {
+  width: 220px;
+  height: auto;
+  margin-right: 30px;
+}
+
+.pub-text {
+  max-width: 650px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.pub-authors {
+  font-size: 14px;
+  color: #666;
+}
+
+@media (max-width: 700px) {
+  .pub-entry {
+    flex-direction: column;
+    text-align: center;
+  }
+  .pub-image img {
+    margin: 0 0 20px 0;
+  }
+}
