@@ -130,7 +130,8 @@ title: Research
     <a target="_blank" href="https://www.f08.uni-stuttgart.de/physik/studierende/lehrveranstaltungen/praktika/fp/versuche/assistenten?id=396">
       <b><i>Blockpraktikum Machine Learning Physics with Language Models</i></b>
     </a>
-    — Lectured by Sayan Banerjee and João Sobral, University of Stuttgart.
+    <br>
+    Lectured by Sayan Banerjee and João Sobral, University of Stuttgart.
   </div>
 </div>
 
@@ -140,11 +141,14 @@ title: Research
     <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ss25/qft25/">
       <b><i>Quantum Field Theory</i></b>
     </a>
-    — Lectured by Prof. Mathias Scheurer, University of Stuttgart.
+    <br>
+    Lectured by Prof. Mathias Scheurer, University of Stuttgart.
     <br>
     <b>Hauptseminar on Physics and Machine Learning</b>
-    — Co-advised short project on <i>Auto-regressive Sampling for Quantum Many-Body States</i>.  
-    (Organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm.)
+    <br>
+    Co-advised short project on <i>Auto-regressive Sampling for Quantum Many-Body States. 
+    <br>
+    Organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm.
   </div>
 </div>
 
@@ -154,7 +158,8 @@ title: Research
     <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ws2425/fqt2425/">
       <b><i>Advanced Quantum Theory</i></b>
     </a>
-    — Lectured by Prof. Mathias Scheurer, University of Stuttgart.
+    <br>
+    Lectured by Prof. Mathias Scheurer, University of Stuttgart.
   </div>
 </div>
 
@@ -164,11 +169,14 @@ title: Research
     <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ss24/qft24/">
       <b><i>Quantum Field Theory</i></b>
     </a>
-    — Lectured by Prof. Mathias Scheurer, University of Stuttgart.
+    <br>
+    Lectured by Prof. Mathias Scheurer, University of Stuttgart.
     <br>
     <b>Hauptseminar on Moiré Materials and Magnetism</b>
-    — Co-advised short project on <i>Wannier Obstructions</i>.  
-    (Organized by Prof. Mathias Scheurer and Prof. Maria Daghofer.)
+    <br>
+    Co-advised short project on <i>Wannier Obstructions</i>.  
+    <br>
+    Organized by Prof. Mathias Scheurer and Prof. Maria Daghofer.
   </div>
 </div>
 
@@ -178,7 +186,8 @@ title: Research
     <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/">
       <b><i>Advanced Quantum Theory</i></b>
     </a>
-    — Lectured by Prof. Mathias Scheurer, University of Stuttgart.
+    <br>
+    Lectured by Prof. Mathias Scheurer, University of Stuttgart.
   </div>
 </div>
 
@@ -186,7 +195,8 @@ title: Research
   <div class="teach-year">1st Semester 2021</div>
   <div class="teach-details">
     <b>Introduction to Computational Physics</b>
-    — Lectured by Prof. Francisco Castilho Alcaraz, University of São Paulo (São Carlos).
+    <br>
+    Lectured by Prof. Francisco Castilho Alcaraz, University of São Paulo (São Carlos).
   </div>
 </div>
 
@@ -194,7 +204,8 @@ title: Research
   <div class="teach-year">2nd Semester 2018</div>
   <div class="teach-details">
     <b>Methods of Experimental Physics</b>
-    — Lectured by Prof. Alexandra Mocellin, University of Brasília.
+    <br>
+    Lectured by Prof. Alexandra Mocellin, University of Brasília.
   </div>
 </div>
 
@@ -202,7 +213,8 @@ title: Research
   <div class="teach-year">1st Semester 2018</div>
   <div class="teach-details">
     <b>Laboratory of Oscillations, Waves and Fluids</b>
-    — Lectured by Prof. Alexandra Mocellin, University of Brasília.
+    <br>
+    Lectured by Prof. Alexandra Mocellin, University of Brasília.
   </div>
 </div>
 
@@ -211,7 +223,7 @@ title: Research
   <div class="teach-details">
     <b>Waves, Optics and Thermodynamics</b>
     <br>
-    — Lectured by Prof. Clovis Achy Soares Maia, University of Brasília.
+    Lectured by Prof. Clovis Achy Soares Maia, University of Brasília.
     <br>
     <b>Computational Methods A</b>
     <br>
