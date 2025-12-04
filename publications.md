@@ -210,10 +210,12 @@ title: Research
   <div class="teach-year">2nd Semester 2017</div>
   <div class="teach-details">
     <b>Waves, Optics and Thermodynamics</b>
+    <br>
     — Lectured by Prof. Clovis Achy Soares Maia, University of Brasília.
     <br>
     <b>Computational Methods A</b>
-    — Lectured by Prof. Luiz Antonio Ribeiro Junior, University of Brasília.
+    <br>
+    Lectured by Prof. Luiz Antonio Ribeiro Junior, University of Brasília.
   </div>
 </div>
 
@@ -221,7 +223,8 @@ title: Research
   <div class="teach-year">1st Semester 2017</div>
   <div class="teach-details">
     <b>Laboratory of Mechanics</b>
-    — Lectured by Prof. Júnio Marcio Rosa Cruz, University of Brasília.
+     <br>
+    Lectured by Prof. Júnio Marcio Rosa Cruz, University of Brasília.
   </div>
 </div>
 
@@ -229,7 +232,8 @@ title: Research
   <div class="teach-year">1st Semester 2016</div>
   <div class="teach-details">
     <b>Calculus 1</b>
-    — Organized by Prof. Guy Grebot, University of Brasília.
+    <br>
+    Organized by Prof. Guy Grebot, University of Brasília.
   </div>
 </div>
 
