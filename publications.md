@@ -127,9 +127,6 @@ title: Research
 
 <h2 style="color: #008080;" id=bc>Teaching Experience</h2>
 
-
-<h2 style="color: #008080;" id="bc">Teaching Experience</h2>
-
 <div class="teaching-entry">
   <div class="teach-year">Summer 2025</div>
   <div class="teach-details">
