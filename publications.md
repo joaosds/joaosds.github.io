@@ -14,6 +14,7 @@ title: Research
     <div class="pub-authors">With Michael Perle and Mathias S. Scheurer.</div>
     <div class="pub-journal"><i>Nature Communications</i> 16, 10811, 2025</div>
     <div class="pub-links">
+      <a href="https://arxiv.org/abs/2412.12248" target="_blank">arXiv</a> / 
       <a href="https://www.nature.com/articles/s41467-025-66844-z" target="_blank">journal</a> / 
       <a href="https://github.com/joaosds/PITransf" target="_blank">code</a>
     </div>
@@ -29,6 +30,7 @@ title: Research
     <div class="pub-authors">With Subrata Mandal and Mathias S. Scheurer.</div>
     <div class="pub-journal"><i>Physical Review Research</i> 7, 023152, 2025</div>
     <div class="pub-links">
+      <a href="https://arxiv.org/abs/2410.10949" target="_blank">arXiv</a> / 
       <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152" target="_blank">journal</a>
     </div>
   </div>
@@ -43,6 +45,7 @@ title: Research
     <div class="pub-authors">With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.</div>
     <div class="pub-journal"><i>Nature Communications</i> 14, 5012, 2023</div>
     <div class="pub-links">
+        <a href="https://arxiv.org/abs/2302.12274" target="_blank">arXiv</a> / 
       <a href="https://www.nature.com/articles/s41467-023-40684-1" target="_blank">journal</a> / 
       <a href="https://github.com/joaosds/nematic-learning" target="_blank">code</a> / 
       <a href="https://phys.org/news/2023-09-ai-algorithm-microscopic-nematicity-moir.html" target="_blank">phys.org summary</a>
@@ -59,6 +62,7 @@ title: Research
     <div class="pub-authors">With Fabrizio Oliviero, Eric C. Andrade and Rodrigo G. Pereira.</div>
     <div class="pub-journal"><i>SciPost Physics</i> 13, 050, 2022</div>
     <div class="pub-links">
+      <a href="https://arxiv.org/abs/2112.03327" target="_blank">arXiv</a> / 
       <a href="https://scipost.org/10.21468/SciPostPhys.13.3.050" target="_blank">journal</a> / 
       <a href="https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif" target="_blank">phase transition gif</a>
     </div>
