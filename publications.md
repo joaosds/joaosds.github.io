@@ -124,6 +124,18 @@ title: Research
 
 <h2 style="color: #008080;" id=bc>Teaching Experience</h2>
 
+
+<div class="teaching-entry">
+  <div class="teach-year"> February 2026</div>
+  <div class="teach-details">
+    <a target="_blank" href="https://www.f08.uni-stuttgart.de/physik/studierende/lehrveranstaltungen/praktika/fp/versuche/assistenten?id=396">
+      <b><i>Blockpraktikum Machine Learning Physics with Language Models</i></b>
+    </a>
+    <br>
+   Lecturers: Sayan Banerjee and João Augusto Sobral
+  </div>
+</div>
+
 <div class="teaching-entry">
   <div class="teach-year">Summer 2025</div>
   <div class="teach-details">
