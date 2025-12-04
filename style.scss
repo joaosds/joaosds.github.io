@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #003366; /* $darkerGray; */
+  color: #003049; /* big titles */
   font-weight: bold;
 
   line-height: 1.7;
@@ -53,15 +53,17 @@ h1 {
 
 h2 {
   font-size: 24px;
+  color: #003049;      /* big titles */
 }
 
 h3 {
   font-size: 20px;
+  color: #669bbc; /* smaller titles */
 }
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #669bbc; /* smaller titles */
 }
 
 p {
@@ -306,13 +308,14 @@ summary{
 .pub-entry {
   display: flex;
   align-items: flex-start;
-  gap: 25px;
+  gap: 30px;
   margin-bottom: 50px;
 }
 
 .pub-image {
-  flex: 0 0 35%;      /* image takes ~35% leaving ~60% for text */
-  max-width: 35%;
+  flex: 0 0 280px;    /* fixed width for consistent alignment */
+  width: 280px;
+  min-height: 120px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -328,9 +331,7 @@ summary{
 
 .pub-text {
   flex: 1;            /* text fills remaining space */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  min-width: 0;       /* prevents overflow issues */
 }
 
 .pub-authors {
@@ -344,9 +345,10 @@ summary{
     text-align: center;
   }
   .pub-image {
-    flex: 0 0 100%;
-    max-width: 100%;
-    margin-bottom: 20px;
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto 20px auto;
   }
 }
 
@@ -361,7 +363,7 @@ summary{
 
 .teaching-entry::before {
   content: "◆";        /* diamond bullet */
-  color: #008080;
+  color: #669bbc;      /* lighter blue */
   font-size: 12px;
   flex-shrink: 0;
   margin-top: 4px;     /* align with text baseline */
@@ -371,7 +373,7 @@ summary{
   width: 120px;
   flex-shrink: 0;
   font-weight: bold;
-  color: #008080;
+  color: #003049;      /* dark blue */
 }
 
 .teach-details {
@@ -381,7 +383,7 @@ summary{
 }
 
 .teach-details a {
-  color: #004f4f;
+  color: #003049;      /* dark blue for links */
   text-decoration: none;
 }
 
