@@ -128,11 +128,13 @@ title: Research
     Lectured by Prof. Mathias Scheurer, University of Stuttgart.
     <br>
     <b>Hauptseminar on Physics and Machine Learning</b>
-    <br>
-    Organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm.
-    <span style="font-size: 14px; font-style: italic;">
+        <br>
+           <span style="font-size: 15px; font-style: italic;">
   Co-advised short project on Auto-regressive Sampling for Quantum Many-Body States.
   </span>
+    <br>
+    Organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm.
+ 
   </div>
 </div>
 
