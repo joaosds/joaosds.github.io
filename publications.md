@@ -143,7 +143,7 @@ title: Research
     — Lectured by Prof. Mathias Scheurer, University of Stuttgart.
     <br>
     <b>Hauptseminar on Physics and Machine Learning</b>
-    — Co-advising short project on <i>Auto-regressive Sampling for Quantum Many-Body States</i>.  
+    — Co-advised short project on <i>Auto-regressive Sampling for Quantum Many-Body States</i>.  
     (Organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm.)
   </div>
 </div>
@@ -167,7 +167,7 @@ title: Research
     — Lectured by Prof. Mathias Scheurer, University of Stuttgart.
     <br>
     <b>Hauptseminar on Moiré Materials and Magnetism</b>
-    — Co-advising short project on <i>Wannier Obstructions</i>.  
+    — Co-advised short project on <i>Wannier Obstructions</i>.  
     (Organized by Prof. Mathias Scheurer and Prof. Maria Daghofer.)
   </div>
 </div>
