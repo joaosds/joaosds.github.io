@@ -5,80 +5,63 @@ title: Research
 <link rel="stylesheet" href="style.css">
  
 <!-- Publications start here -->
-   
-<div class="pub-entry">
+   <div class="pub-entry">
   <div class="pub-image">
     <img src="../images/ptransf.png" alt="">
   </div>
-
   <div class="pub-text">
-    <a target="_blank" href="https://www.nature.com/articles/s41467-025-66844-z">
-      <i>Physics-informed Transformers for Electronic Quantum States</i></a>,
-    Nat. Commun. 16, 10811, <b>2025</b>.
-    <br>
-    <span class="pub-authors">
-      With Michael Perle and Mathias S. Scheurer.
-    </span>
-    <br><br>
-    <a href="https://github.com/joaosds/PITransf" target="_blank">code</a>
+    <div class="pub-title">Physics-informed Transformers for Electronic Quantum States</div>
+    <div class="pub-authors">With Michael Perle and Mathias S. Scheurer.</div>
+    <div class="pub-journal"><i>Nature Communications</i> 16, 10811, 2025</div>
+    <div class="pub-links">
+      <a href="https://www.nature.com/articles/s41467-025-66844-z" target="_blank">journal</a> / 
+      <a href="https://github.com/joaosds/PITransf" target="_blank">code</a>
+    </div>
   </div>
 </div>
-
 
 <div class="pub-entry">
   <div class="pub-image">
     <img src="../images/palter.png" alt="">
   </div>
-
   <div class="pub-text">
-    <a target="_blank" href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152">
-      <i>Fractionalized altermagnets: From neighboring and altermagnetic spin liquids to spin-symmetric band splitting</i></a>,
-    Phys. Rev. Research 7, 023152, <b>2025</b>.
-    <br>
-    <span class="pub-authors">
-      With Subrata Mandal and Mathias S. Scheurer.
-    </span>
+    <div class="pub-title">Fractionalized Altermagnets: From Neighboring and Altermagnetic Spin Liquids to Spin-Symmetric Band Splitting</div>
+    <div class="pub-authors">With Subrata Mandal and Mathias S. Scheurer.</div>
+    <div class="pub-journal"><i>Physical Review Research</i> 7, 023152, 2025</div>
+    <div class="pub-links">
+      <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152" target="_blank">journal</a>
+    </div>
   </div>
 </div>
-
 
 <div class="pub-entry">
   <div class="pub-image">
     <img src="../images/pnemat.jpg" alt="">
   </div>
-
   <div class="pub-text">
-    <a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1">
-      <i>Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>,
-    Nat. Commun. 14, 5012, <b>2023</b>.
-    <br>
-    <span class="pub-authors">
-      With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.
-    </span>
-    <br><br>
-    <a href="https://github.com/joaosds/nematic-learning" target="_blank">code</a>
-     //
-    <a href="https://phys.org/news/2023-09-ai-algorithm-microscopic-nematicity-moir.html" target="_blank">phys.org summary</a>
+    <div class="pub-title">Machine Learning the Microscopic Form of Nematic Order in Twisted Double-Bilayer Graphene</div>
+    <div class="pub-authors">With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.</div>
+    <div class="pub-journal"><i>Nature Communications</i> 14, 5012, 2023</div>
+    <div class="pub-links">
+      <a href="https://www.nature.com/articles/s41467-023-40684-1" target="_blank">journal</a> / 
+      <a href="https://github.com/joaosds/nematic-learning" target="_blank">code</a> / 
+      <a href="https://phys.org/news/2023-09-ai-algorithm-microscopic-nematicity-moir.html" target="_blank">phys.org summary</a>
+    </div>
   </div>
 </div>
-
 
 <div class="pub-entry">
   <div class="pub-image">
     <img src="../images/pnoncop.png" alt="">
   </div>
-
   <div class="pub-text">
-    <a target="_blank" href="https://scipost.org/10.21468/SciPostPhys.13.3.050">
-      <i>Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality</i>
-    </a>,
-    SciPost Physics 13, 050, <b>2022</b>.
-    <br>
-    <span class="pub-authors">
-      With Fabrizio Oliviero, Eric C. Andrade and Rodrigo G. Pereira.
-    </span>
-    <br><br>
-    <a href="https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif" target="_blank">gif: phase transition from magnetic unit cell perspective</a>
+    <div class="pub-title">Noncoplanar Magnetic Orders and Gapless Chiral Spin Liquid on the Kagome Lattice with Staggered Scalar Spin Chirality</div>
+    <div class="pub-authors">With Fabrizio Oliviero, Eric C. Andrade and Rodrigo G. Pereira.</div>
+    <div class="pub-journal"><i>SciPost Physics</i> 13, 050, 2022</div>
+    <div class="pub-links">
+      <a href="https://scipost.org/10.21468/SciPostPhys.13.3.050" target="_blank">journal</a> / 
+      <a href="https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif" target="_blank">phase transition gif</a>
+    </div>
   </div>
 </div>
 
