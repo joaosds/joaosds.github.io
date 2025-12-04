@@ -3,9 +3,10 @@ title: Research
 ---
   
 <link rel="stylesheet" href="style.css">
- 
-<!-- Publications start here -->
-   <div class="pub-entry">
+
+<h2 id="publications">Publications</h2>
+
+<div class="pub-entry">
   <div class="pub-image">
     <img src="../images/ptransf.png" alt="">
   </div>
@@ -45,7 +46,7 @@ title: Research
     <div class="pub-authors">With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.</div>
     <div class="pub-journal"><i>Nature Communications</i> 14, 5012, 2023</div>
     <div class="pub-links">
-        <a href="https://arxiv.org/abs/2302.12274" target="_blank">arXiv</a> / 
+      <a href="https://arxiv.org/abs/2302.12274" target="_blank">arXiv</a> / 
       <a href="https://www.nature.com/articles/s41467-023-40684-1" target="_blank">journal</a> / 
       <a href="https://github.com/joaosds/nematic-learning" target="_blank">code</a> / 
       <a href="https://phys.org/news/2023-09-ai-algorithm-microscopic-nematicity-moir.html" target="_blank">phys.org summary</a>
@@ -69,47 +70,80 @@ title: Research
   </div>
 </div>
 
+<hr class="section-divider">
 
+<h2 id="talks">Poster Presentations and Talks</h2>
 
+<div class="talk-entry">
+  <div class="talk-year">2024</div>
+  <div class="talk-details">
+    <b>Physics-Informed transformers for electronic quantum states</b>
+    <br>
+    Generative models for classical and quantum matter (CECAM), December 3.
+    <a href="https://github.com/joaosds/joaosds.github.io/blob/master/files/cecam.pdf" target="_blank">Slides</a>
+  </div>
+</div>
 
-<!-- <ol>
-<li><a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0375960120301894"><i>Non-monotonous behavior of the number variance, Mandel factor, invariant uncertainty product and purity for the quantum damped harmonic oscillator</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
-<font size=2><b>J.P. Valeriano</b>, V.V. Dodonov. (<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)</font></li>
-</ol> -->
-<hr style="border: 1px solid" noshade>
-<h2 style="color: #008080;" id=bc>Poster presentations and talks</h2>
+<div class="talk-entry">
+  <div class="talk-year">2023</div>
+  <div class="talk-details">
+    <b>Machine Learning the Microscopic Form of Nematic Order in twisted double-bilayer graphene</b>
+    <br>
+    Journal Club for Quantum Physics and Machine Learning — ultracold.org, June 27.
+    <a href="https://github.com/joaosds/joaosds.github.io/blob/master/files/ultracold.pdf" target="_blank">Slides</a>
+  </div>
+</div>
 
-<!-- <hr  noshade> -->
+<div class="talk-entry">
+  <div class="talk-year">2022</div>
+  <div class="talk-details">
+    <b>Noncoplanar magnetism and gapless chiral spin liquid on the kagome lattice</b>
+    <br>
+    Solid State Seminar — Universität Innsbruck, May 11.
+    <a href="https://github.com/joaosds/joaosds.github.io/blob/master/files/innsbruck2022_csl_joaoa.pdf" target="_blank">Slides</a>
+  </div>
+</div>
 
-<ol>
-<li> Physics-Informed transformers for electronic quantum states, Generative models for classical and quantum matter (CECAM), December 3, <b>2024</b>
-(<a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/files/cecam.pdf"><i>Slides</i></a>).
-</li>
-<li> Machine Learning the Microscopic Form of Nematic Order in twisted double-bilayer graphene, Journal Club for Quantum Physics and Machine Learning - ultracold.org, June 27, <b>2023</b>
-(<a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/files/ultracold.pdf"><i>Slides</i></a>).
-</li>
-<li>Noncoplanar magnetism and gapless chiral spin liquid on the kagome lattice, Solid State Seminar - Universität Innsbruck, May 11, <b> 2022</b> 
-(<a target = "_blank" href = "https://github.com/joaosds/joaosds.github.io/blob/master/files/innsbruck2022_csl_joaoa.pdf"><i>Slides</i></a>).
-</li>
-</ol>
+<hr class="section-divider">
 
-<hr style="border: 1px solid" noshade>
+<h2 id="misc">Misc</h2>
 
-<h2>Misc</h2>
+<div class="misc-entry">
+  <div class="misc-year">2022</div>
+  <div class="misc-details">
+    <b>Investigating spin liquids via projected wavefunctions</b>
+    <br>
+    <a href="https://www.teses.usp.br/teses/disponiveis/76/76134/tde-06042022-111534/en.php" target="_blank">Master's Thesis</a>, Universidade de São Paulo.
+    <br>
+    <span class="advisor">Advisor: <a href="https://sites.google.com/site/castroeandrade/home?authuser=0" target="_blank">Eric C. Andrade</a></span>
+  </div>
+</div>
 
-<!-- <hr noshade> -->
-<ol>
-<li>Investigating spin liquids via projected wavefunctions, <b>2022</b>, <a target="_blank" href="https://www.teses.usp.br/teses/disponiveis/76/76134/tde-06042022-111534/en.php">Master's Thesis</a>, Universidade de São Paulo. Advisor: <a targe="_blank" href="https://sites.google.com/site/castroeandrade/home?authuser=0">Eric C. Andrade</a>.<br> <br> 
-</li>
-  <li> Three-body problem with relativistic corrections (<a target = "_blank" href = "https://mcgill3body.github.io/"><i>McGill Physics Hackathon 2021</i></a>). 
-   <br> <font size=2>With F. Fontinele, P.H. Cintra, I. Reis and V. Dantas. </font></li>   <br> 
-<li>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime, <b>2019</b>, <a target="_blank" href="../files/undergrad-thesis-joao.pdf">Bachelor's thesis (PT-BR)</a>, Universidade de Brasília. Advisor: C. A. S. Maia. </li><br> 
+<div class="misc-entry">
+  <div class="misc-year">2021</div>
+  <div class="misc-details">
+    <b>Three-body problem with relativistic corrections</b>
+    <br>
+    <a href="https://mcgill3body.github.io/" target="_blank">McGill Physics Hackathon 2021</a>
+    <br>
+    <span class="collaborators">With F. Fontinele, P.H. Cintra, I. Reis and V. Dantas.</span>
+  </div>
+</div>
 
-</ol>
+<div class="misc-entry">
+  <div class="misc-year">2019</div>
+  <div class="misc-details">
+    <b>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime</b>
+    <br>
+    <a href="../files/undergrad-thesis-joao.pdf" target="_blank">Bachelor's thesis (PT-BR)</a>, Universidade de Brasília.
+    <br>
+    <span class="advisor">Advisor: C. A. S. Maia</span>
+  </div>
+</div>
 
-<hr style="border: 1px solid" noshade>
+<hr class="section-divider">
 
-<h2 id="bc">Teaching Experience</h2>
+<h2 id="teaching">Teaching Experience</h2>
 
 <div class="teaching-entry">
   <div class="teach-year">Summer 2026</div>
@@ -132,13 +166,10 @@ title: Research
     Lectured by Prof. Mathias Scheurer, University of Stuttgart.
     <br>
     <b>Hauptseminar on Physics and Machine Learning</b>
-        <br>
-           <span style="font-size: 15px; font-style: italic;">
-  Co-advised short project on Auto-regressive Sampling for Quantum Many-Body States.
-  </span>
+    <br>
+    <span class="teach-note">Co-advised short project on Auto-regressive Sampling for Quantum Many-Body States.</span>
     <br>
     Organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm.
- 
   </div>
 </div>
 
@@ -163,13 +194,10 @@ title: Research
     Lectured by Prof. Mathias Scheurer, University of Stuttgart.
     <br>
     <b>Hauptseminar on Moiré Materials and Magnetism</b>
-        <br>
-    <span style="font-size: 15px; font-style: italic;">
-    Co-advised short project on <i>Wannier Obstructions</i>.  
-    </span>
+    <br>
+    <span class="teach-note">Co-advised short project on Wannier Obstructions.</span>
     <br>
     Organized by Prof. Mathias Scheurer and Prof. Maria Daghofer.
-
   </div>
 </div>
 
@@ -228,7 +256,7 @@ title: Research
   <div class="teach-year">1st Semester 2017</div>
   <div class="teach-details">
     <b>Laboratory of Mechanics</b>
-     <br>
+    <br>
     Lectured by Prof. Júnio Marcio Rosa Cruz, University of Brasília.
   </div>
 </div>
@@ -241,8 +269,3 @@ title: Research
     Organized by Prof. Guy Grebot, University of Brasília.
   </div>
 </div>
-
-
-
-
-
