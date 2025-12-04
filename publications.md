@@ -60,7 +60,7 @@ title: Research
     </span>
     <br><br>
     <a href="https://github.com/joaosds/nematic-learning" target="_blank">code</a>
-    <br>
+     //
     <a href="https://phys.org/news/2023-09-ai-algorithm-microscopic-nematicity-moir.html" target="_blank">phys.org summary</a>
   </div>
 </div>
