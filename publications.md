@@ -78,7 +78,7 @@ title: Research
       With Fabrizio Oliviero, Eric C. Andrade and Rodrigo G. Pereira.
     </span>
     <br><br>
-    <a href="https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif" target="_blank">phase-transition from magnetic unit cell pov gif</a>
+    <a href="https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif" target="_blank">gif: phase transition from magnetic unit cell perspective</a>
   </div>
 </div>
 
