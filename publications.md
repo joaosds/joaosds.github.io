@@ -10,7 +10,7 @@ title: Research
     <img src="../images/ptransf.png" alt="">
   </div>
   <div class="pub-text">
-    <div class="pub-title">Physics-informed Transformers for Electronic Quantum States</div>
+    <div class="pub-title">Physics-informed transformers for electronic quantum states</div>
     <div class="pub-authors">With Michael Perle and Mathias S. Scheurer.</div>
     <div class="pub-journal"><i>Nature Communications</i> 16, 10811, 2025</div>
     <div class="pub-links">
@@ -26,7 +26,7 @@ title: Research
     <img src="../images/palter.png" alt="">
   </div>
   <div class="pub-text">
-    <div class="pub-title">Fractionalized Altermagnets: From Neighboring and Altermagnetic Spin Liquids to Spin-Symmetric Band Splitting</div>
+    <div class="pub-title">Fractionalized altermagnets: From neighboring and altermagnetic spin liquids to spin-symmetric band splitting</div>
     <div class="pub-authors">With Subrata Mandal and Mathias S. Scheurer.</div>
     <div class="pub-journal"><i>Physical Review Research</i> 7, 023152, 2025</div>
     <div class="pub-links">
@@ -41,7 +41,7 @@ title: Research
     <img src="../images/pnemat.jpg" alt="">
   </div>
   <div class="pub-text">
-    <div class="pub-title">Machine Learning the Microscopic Form of Nematic Order in Twisted Double-Bilayer Graphene</div>
+    <div class="pub-title">Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</div>
     <div class="pub-authors">With Stefan Obernauer, Simon Turkel, Abhay N. Pasupathy and Mathias S. Scheurer.</div>
     <div class="pub-journal"><i>Nature Communications</i> 14, 5012, 2023</div>
     <div class="pub-links">
@@ -58,7 +58,7 @@ title: Research
     <img src="../images/pnoncop.png" alt="">
   </div>
   <div class="pub-text">
-    <div class="pub-title">Noncoplanar Magnetic Orders and Gapless Chiral Spin Liquid on the Kagome Lattice with Staggered Scalar Spin Chirality</div>
+    <div class="pub-title">Noncoplanar magnetic orders and gapless chiral spin liquid on the kagome lattice with staggered scalar spin chirality</div>
     <div class="pub-authors">With Fabrizio Oliviero, Eric C. Andrade and Rodrigo G. Pereira.</div>
     <div class="pub-journal"><i>SciPost Physics</i> 13, 050, 2022</div>
     <div class="pub-links">
