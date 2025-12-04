@@ -81,7 +81,7 @@ title: Research
       With Fabrizio Oliviero, Eric C. Andrade and Rodrigo G. Pereira.
     </span>
     <br><br>
-    <a href="https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif" target="_blank">phase-transition gif</a>
+    <a href="https://github.com/joaosds/joaosds.github.io/blob/master/images/cuboc_pt.gif" target="_blank">phase-transition from magnetic unit cell pov gif</a>
   </div>
 </div>
 
@@ -128,36 +128,135 @@ title: Research
 <h2 style="color: #008080;" id=bc>Teaching Experience</h2>
 
 
-<ol>
+<h2 style="color: #008080;" id="bc">Teaching Experience</h2>
 
-<li>(Summer Semester 2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ss25/qft25/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
+<div class="teaching-entry">
+  <div class="teach-year">Summer 2025</div>
+  <div class="teach-details">
+    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ss25/qft25/">
+      <b><i>Quantum Field Theory</i></b>
+    </a>
+    <br>
+    Lectured by Prof. Mathias Scheurer, University of Stuttgart.
+  </div>
+</div>
 
-<li>(Summer Semester 2025) "Hauptseminar on Physics and Machine Learning", co-advising short project on <i>Auto-regressive Sampling for Quantum Many-Body States</i> (organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm at the University of Stuttgart). </li>
+<div class="teaching-entry">
+  <div class="teach-year">Summer 2025</div>
+  <div class="teach-details">
+    <b>Hauptseminar on Physics and Machine Learning</b>
+    <br>
+    Co-advising short project on <i>Auto-regressive Sampling for Quantum Many-Body States</i>.  
+    (Organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm.)
+  </div>
+</div>
 
- 
-<li>(Winter Semester 2024/2025) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2425/fqt2425/"><i>Fortgeschrittene Quantentheorie</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+<div class="teaching-entry">
+  <div class="teach-year">Winter 2024/25</div>
+  <div class="teach-details">
+    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ws2425/fqt2425/">
+      <b><i>Advanced Quantum Theory</i></b>
+    </a>
+    <br>
+    Lectured by Prof. Mathias Scheurer, University of Stuttgart.
+  </div>
+</div>
 
-<li>(Summer Semester 2024) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ss24/qft24/"><i>Quantum Field Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart. </li>
+<div class="teaching-entry">
+  <div class="teach-year">Summer 2024</div>
+  <div class="teach-details">
+    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ss24/qft24/">
+      <b><i>Quantum Field Theory</i></b>
+    </a>
+    <br>
+    Lectured by Prof. Mathias Scheurer, University of Stuttgart.
+  </div>
+</div>
 
-<li>(Summer Semester 2024) "Hauptseminar on Moiré Materials and Magnetism", co-advising short project on <i>Wannier Obstructions</i> (organized by Prof. Mathias Scheurer and Prof. Maria Daghofer at the University of Stuttgart). </li>
+<div class="teaching-entry">
+  <div class="teach-year">Summer 2024</div>
+  <div class="teach-details">
+    <b>Hauptseminar on Moiré Materials and Magnetism</b>
+    <br>
+    Co-advising short project on <i>Wannier Obstructions</i>.  
+    (Organized by Prof. Mathias Scheurer and Prof. Maria Daghofer.)
+  </div>
+</div>
 
-<li>(Winter Semester 2023/2024) "<a target = "_blank" href = "https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/"><i>Advanced Quantum Theory</i></a>", lectured by Prof. Mathias Scheurer at the University of Stuttgart.  </li>
+<div class="teaching-entry">
+  <div class="teach-year">Winter 2023/24</div>
+  <div class="teach-details">
+    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/">
+      <b><i>Advanced Quantum Theory</i></b>
+    </a>
+    <br>
+    Lectured by Prof. Mathias Scheurer, University of Stuttgart.
+  </div>
+</div>
 
-<li>(1st semester of 2021) "Introduction to Computational Physics", lectured by Prof. Francisco Castilho Alcaraz at the University of São Paulo, São Carlos.  </li>
+<div class="teaching-entry">
+  <div class="teach-year">1st Semester 2021</div>
+  <div class="teach-details">
+    <b>Introduction to Computational Physics</b>
+    <br>
+    Lectured by Prof. Francisco Castilho Alcaraz, University of São Paulo (São Carlos).
+  </div>
+</div>
 
-<li>(2nd semester of 2018) "Methods of Experimental Physics", lectured by Prof. Alexandra Mocellin at the University of Brasília. </li>
+<div class="teaching-entry">
+  <div class="teach-year">2nd Semester 2018</div>
+  <div class="teach-details">
+    <b>Methods of Experimental Physics</b>
+    <br>
+    Lectured by Prof. Alexandra Mocellin, University of Brasília.
+  </div>
+</div>
 
-<li>(1st semester of 2018) "Laboratory of Oscillations, Waves and Fluids", lectured by Prof. Alexandra Mocellin at the University of Brasília. </li>
+<div class="teaching-entry">
+  <div class="teach-year">1st Semester 2018</div>
+  <div class="teach-details">
+    <b>Laboratory of Oscillations, Waves and Fluids</b>
+    <br>
+    Lectured by Prof. Alexandra Mocellin, University of Brasília.
+  </div>
+</div>
 
-<li>(2nd semester of 2017) "Waves, Optics and Thermodynamics", lectured by Prof. Clovis Achy Soares Maia at the University of Brasília. </li>
+<div class="teaching-entry">
+  <div class="teach-year">2nd Semester 2017</div>
+  <div class="teach-details">
+    <b>Waves, Optics and Thermodynamics</b>
+    <br>
+    Lectured by Prof. Clovis Achy Soares Maia, University of Brasília.
+  </div>
+</div>
 
-<li>(2nd semester of 2017) "Computational Methods A", lectured by Prof. Luiz Antonio Ribeiro Junior at the University of Brasília. </li>
+<div class="teaching-entry">
+  <div class="teach-year">2nd Semester 2017</div>
+  <div class="teach-details">
+    <b>Computational Methods A</b>
+    <br>
+    Lectured by Prof. Luiz Antonio Ribeiro Junior, University of Brasília.
+  </div>
+</div>
 
-<li>(1st semester of 2017) "Laboratory of Mechanics", lectured by Prof. Júnio Marcio Rosa Cruz at the University of Brasília. </li>
+<div class="teaching-entry">
+  <div class="teach-year">1st Semester 2017</div>
+  <div class="teach-details">
+    <b>Laboratory of Mechanics</b>
+    <br>
+    Lectured by Prof. Júnio Marcio Rosa Cruz, University of Brasília.
+  </div>
+</div>
 
-<li>(1st semester of 2016) "Calculus 1", lectured by different Professors, organized by Prof. Guy Grebot at the University of Brasília. </li>
+<div class="teaching-entry">
+  <div class="teach-year">1st Semester 2016</div>
+  <div class="teach-details">
+    <b>Calculus 1</b>
+    <br>
+    Organized by Prof. Guy Grebot, University of Brasília.
+  </div>
+</div>
 
-</ol>
 
 
 
