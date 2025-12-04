@@ -13,8 +13,7 @@ title: Research
 
   <div class="pub-text">
     <a target="_blank" href="https://www.nature.com/articles/s41467-025-66844-z">
-      <i>Physics-informed Transformers for Electronic Quantum States</i>
-    </a>,
+      <i>Physics-informed Transformers for Electronic Quantum States</i></a>,
     Nat. Commun. 16, 10811, <b>2025</b>.
     <br>
     <span class="pub-authors">
@@ -33,8 +32,7 @@ title: Research
 
   <div class="pub-text">
     <a target="_blank" href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023152">
-      <i>Fractionalized altermagnets: From neighboring and altermagnetic spin liquids to spin-symmetric band splitting</i>
-    </a>,
+      <i>Fractionalized altermagnets: From neighboring and altermagnetic spin liquids to spin-symmetric band splitting</i></a>,
     Phys. Rev. Research 7, 023152, <b>2025</b>.
     <br>
     <span class="pub-authors">
@@ -51,8 +49,7 @@ title: Research
 
   <div class="pub-text">
     <a target="_blank" href="https://www.nature.com/articles/s41467-023-40684-1">
-      <i>Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i>
-    </a>,
+      <i>Machine learning the microscopic form of nematic order in twisted double-bilayer graphene</i></a>,
     Nat. Commun. 14, 5012, <b>2023</b>.
     <br>
     <span class="pub-authors">
