@@ -303,22 +303,27 @@ summary{
 
 
 /* --- Publication layout --- */
-
 .pub-entry {
   display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin-bottom: 60px;
+}
+
+.pub-image {
+  width: 300px;       /* fixed container width */
+  height: 200px;      /* fixed container height */
+  display: flex;
   align-items: center;
-  margin: 40px 0;
+  justify-content: center;
+  overflow: hidden;   /* crops overflow so sizes match cleanly */
+  border-radius: 6px; /* optional, looks nicer */
 }
 
 .pub-image img {
-  width: 60%;
+  width: 100%;
   height: auto;
-}
-
-.pub-text {
-  max-width: 650px;
-  font-size: 16px;
-  line-height: 1.5;
+  object-fit: contain;   /* keeps full image visible */
 }
 
 .pub-authors {
