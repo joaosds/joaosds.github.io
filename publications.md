@@ -3,7 +3,7 @@ title: Research
 ---
 
 <link rel="stylesheet" href="style.css">
-
+ 
 <!-- Publications start here -->
 
 <div class="pub-entry">
