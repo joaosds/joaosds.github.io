@@ -146,9 +146,10 @@ title: Research
     <br>
     <b>Hauptseminar on Physics and Machine Learning</b>
     <br>
-    Co-advised short project on <i>Auto-regressive Sampling for Quantum Many-Body States. 
-    <br>
     Organized by Prof. Mathias Scheurer, Prof. Thomas Speck and Prof. Christian Holm.
+    <span style="font-size: 14px; font-style: italic;">
+  Co-advised short project on Auto-regressive Sampling for Quantum Many-Body States.
+  </span>
   </div>
 </div>
 
