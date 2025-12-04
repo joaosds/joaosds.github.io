@@ -334,9 +334,37 @@ summary{
   min-width: 0;       /* prevents overflow issues */
 }
 
+.pub-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #003049;
+  line-height: 1.4;
+  margin-bottom: 8px;
+}
+
 .pub-authors {
-  font-size: 14px;
-  color: #666;
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 6px;
+}
+
+.pub-journal {
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.pub-links {
+  font-size: 15px;
+}
+
+.pub-links a {
+  color: #669bbc;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
 }
 
 @media (max-width: 700px) {
