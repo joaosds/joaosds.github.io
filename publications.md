@@ -146,7 +146,7 @@ title: Research
 <h2 id="teaching">Teaching Experience</h2>
 
 <div class="teaching-entry">
-  <div class="teach-year">Summer 2026</div>
+  <div class="teach-year">Winter 2025/26</div>
   <div class="teach-details">
     <a target="_blank" href="https://www.f08.uni-stuttgart.de/physik/studierende/lehrveranstaltungen/praktika/fp/versuche/assistenten?id=396">
       <b><i>Blockpraktikum Machine Learning Physics with Language Models</i></b>
