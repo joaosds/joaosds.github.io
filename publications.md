@@ -8,6 +8,20 @@ title: Research
 
 <div class="pub-entry">
   <div class="pub-image">
+    <img src="../images/exactam.png" alt="">
+  </div>
+  <div class="pub-text">
+    <div class="pub-title">Exactly Solvable Models Hosting Altermagnetic Quantum Spin Liquids</div>
+    <div class="pub-authors">With Pietro M. Bonetti, Subrata Mandal and Mathias S. Scheurer.</div>
+    <div class="pub-journal"><i>arXiv</i> 2512.24076, 2025</div>
+      <a href="https://arxiv.org/abs/2412.12248" target="_blank">arXiv</a> 
+      <!--<a href="https://www.nature.com/articles/s41467-025-66844-z" target="_blank">journal</a> / -->
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-image">
     <img src="../images/ptransf.png" alt="">
   </div>
   <div class="pub-text">
