@@ -24,11 +24,12 @@ title: Interesting Things
 
 <h4>Art</h4>
   <ul>
-    <li><a href="https://hellopoetry.com/poem/4511459/paul-valery-translation-of-the-graveyard-by-the-sea/">The Graveyard by the Sea - Paul Valéry (1922)</a></li>
-    <li><a href="https://www.prosperosisle.org/spip.php?article1096"> Tabacaria - Fernando Pessoa (1928) </a></li>
-    <details>
-      <summary> If you understand portuguese,
-        <a href="https://www.youtube.com/watch?v=a1IBpsuCI14"> here</a> is a brilliant interpretation by Antônio Abumjara.
-    </p>
-    </details>
+<li><a href="https://hellopoetry.com/poem/4511459/paul-valery-translation-of-the-graveyard-by-the-sea/">The Graveyard by the Sea - Paul Valéry (1922)</a></li>
+<li>
+  <a href="https://www.prosperosisle.org/spip.php?article1096">Tabacaria - Fernando Pessoa (1928)</a>
+  <details>
+    <summary>If you understand Portuguese...</summary>
+    <a href="https://www.youtube.com/watch?v=a1IBpsuCI14">Here</a> is a brilliant interpretation by Antônio Abujamra.
+  </details>
+</li>
 </ul>
