@@ -22,9 +22,8 @@ title: Interesting Things
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
 
-<h4>Art, Poetry and Music</h4>
+<h4>Art</h4>
   <ul>
-   <li><a href="https://www.albumoftheyear.org/user/joaoasds/lists/"> AOTY lists </a></li>
     <li><a href="https://hellopoetry.com/poem/4511459/paul-valery-translation-of-the-graveyard-by-the-sea/">The Graveyard by the Sea - Paul Valéry (1922)</a></li>
   <li>
     <details>
