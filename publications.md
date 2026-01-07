@@ -4,7 +4,7 @@ title: Research
   
 <link rel="stylesheet" href="style.css">
 
-<h2 id="publications">Publications</h2>
+<!--<h2 id="publications">Publications</h2>-->
 
 <div class="pub-entry">
   <div class="pub-image">
