@@ -174,7 +174,7 @@ title: Research
 <div class="teaching-entry">
   <div class="teach-year">Summer 2025</div>
   <div class="teach-details">
-    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ss25/qft25/">
+    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/lectures/archive/ss25/qft25/">
       <b><i>Quantum Field Theory</i></b>
     </a>
     <br>
@@ -191,7 +191,7 @@ title: Research
 <div class="teaching-entry">
   <div class="teach-year">Winter 2024/25</div>
   <div class="teach-details">
-    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ws2425/fqt2425/">
+    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/lectures/archive/ws2425/fqt2425/">
       <b><i>Advanced Quantum Theory</i></b>
     </a>
     <br>
@@ -202,7 +202,7 @@ title: Research
 <div class="teaching-entry">
   <div class="teach-year">Summer 2024</div>
   <div class="teach-details">
-    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ss24/qft24/">
+    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/lectures/archive/ss24/qft24/">
       <b><i>Quantum Field Theory</i></b>
     </a>
     <br>
@@ -219,7 +219,7 @@ title: Research
 <div class="teaching-entry">
   <div class="teach-year">Winter 2023/24</div>
   <div class="teach-details">
-    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/archive/ws2324/aqt2324/">
+    <a target="_blank" href="https://www.itp3.uni-stuttgart.de/teaching/lectures/archive/ws2324/aqt2324/">
       <b><i>Advanced Quantum Theory</i></b>
     </a>
     <br>
