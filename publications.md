@@ -163,7 +163,7 @@ title: Research
 <div class="teaching-entry">
   <div class="teach-year">Winter 2025/26 (February)</div>
   <div class="teach-details">
-    <a target="_blank" href="https://github.com/joaosds/n-lmphysiklab/blob/main/manual_v1.pdf">
+    <a target="_blank" href="https://github.com/joaosds/n-lmphysiklab">
       <b><i>Blockpraktikum: Machine learning physics with language models</i></b>
     </a>
     <br>
