@@ -11,7 +11,7 @@ title: Research
     <img src="../images/exactam.png" alt="">
   </div>
   <div class="pub-text">
-    <div class="pub-title">Exactly Solvable Models Hosting Altermagnetic Quantum Spin Liquids</div>
+    <div class="pub-title">Exactly solvable models hosting altermagnetic quantum spin liquids</div>
     <div class="pub-authors">With Pietro M. Bonetti, Subrata Mandal and Mathias S. Scheurer.</div>
     <div class="pub-journal"><i>arXiv</i> 2512.24076, 2025</div>
     <div class="pub-links">
@@ -161,10 +161,10 @@ title: Research
 <h2 id="teaching">Teaching Experience</h2>
 
 <div class="teaching-entry">
-  <div class="teach-year">Winter 2025/26</div>
+  <div class="teach-year">Winter 2025/26 (February)</div>
   <div class="teach-details">
-    <a target="_blank" href="https://www.f08.uni-stuttgart.de/physik/studierende/lehrveranstaltungen/praktika/fp/versuche/assistenten?id=396">
-      <b><i>Blockpraktikum Machine Learning Physics with Language Models</i></b>
+    <a target="_blank" href="https://github.com/joaosds/n-lmphysiklab/blob/main/manual_v1.pdf">
+      <b><i>Blockpraktikum: Machine learning physics with language models</i></b>
     </a>
     <br>
     Lectured by Sayan Banerjee and João Sobral, University of Stuttgart.
