@@ -8,7 +8,7 @@ title: Interesting Things
 </p>
 
 <details style="margin-bottom: 1em; border: 1px solid #ddd;">
-  <summary style="padding: 12px 16px; cursor: pointer; font-weight: 500;">Linux/Vim</summary>
+  <summary style="padding: 12px 16px; cursor: pointer; font-weight: 500;">Vim</summary>
   <div style="padding: 12px 16px;">
     <ul style="list-style: none; padding: 0;">
       <li style="margin-bottom: 8px;"><a href="https://www.youtube.com/watch?v=X6AR2RMB5tE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R">The Primeagen's introduction to (neo)vim</a></li>
@@ -18,6 +18,30 @@ title: Interesting Things
     </ul>
   </div>
 </details>
+
+<!--
+<details style="margin-bottom: 1em; border: 1px solid #ddd;">
+  <summary style="padding: 12px 16px; cursor: pointer; font-weight: 500;">Linux</summary>
+  <div style="padding: 12px 16px;">
+    <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 8px;"><a href="https://www.youtube.com/watch?v=X6AR2RMB5tE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R">The Primeagen's introduction to (neo)vim</a></li>
+      <li style="margin-bottom: 8px;"><a href="https://www.ejmastnak.com/tutorials/vim-latex/intro/">Real-time LaTeX using (Neo)Vim, VimTeX, and snippets</a></li>
+      <li style="margin-bottom: 8px;"><a href="https://castel.dev/post/lecture-notes-1/#vim-and-latex">Gilles Castel's tutorials for TeX, Vim and Inkscape</a></li>
+      <li style="margin-bottom: 8px;"><a href="https://github.com/LunarVim/nvim-basic-ide">nvim-basic-ide</a></li>
+    </ul>
+  </div>
+</details>
+-->
+
+<details style="margin-bottom: 1em; border: 1px solid #ddd;">
+  <summary style="padding: 12px 16px; cursor: pointer; font-weight: 500;">AI</summary>
+  <div style="padding: 12px 16px;">
+    <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 8px;"><a href="https://karpathy.github.io/2026/02/12/microgpt/">microgpt</a></li>
+    </ul>
+  </div>
+</details>
+
 
 <details style="margin-bottom: 1em; border: 1px solid #ddd;">
   <summary style="padding: 12px 16px; cursor: pointer; font-weight: 500;">Science Communication</summary>
