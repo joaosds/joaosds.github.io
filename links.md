@@ -2,11 +2,11 @@
 layout: default
 title: Interesting Things
 ---
-
-<p style="color: #666; font-size: 0.95em; line-height: 1.6; margin-bottom: 2em; max-width: 700px;">
-  The internet is full of amazing hidden gems, but also of seamlessly noise. This is a place where I compile a list (for myself, and possibly others) of the first for past and current interests.
+<!--
+<p style="color: #666; font-size: 0.95em; line-height: 1.6; margin-bottom: 2em; max-width: 2000px;">
+  The internet is full of amazing hidden gems, but also of seamless noise. This is where I collect the former—a curated list for my past and current interests.
 </p>
-
+-->
 <details style="margin-bottom: 1em; border: 1px solid #ddd;">
   <summary style="padding: 12px 16px; cursor: pointer; font-weight: 500;">Vim</summary>
   <div style="padding: 12px 16px;">
