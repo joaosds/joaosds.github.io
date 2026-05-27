@@ -39,6 +39,9 @@ title: Interesting Things
     <ul style="list-style: none; padding: 0;">
       <li style="margin-bottom: 8px;"><a href="https://karpathy.github.io/2026/02/12/microgpt/">microgpt</a></li>
     </ul>
+        <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 8px;"><a href="https://colah.github.io/">C. Olah's blogspot</a></li>
+    </ul>
   </div>
 </details>
 
