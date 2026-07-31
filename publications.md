@@ -86,7 +86,7 @@ title: Research
 </div>
 
 <hr class="section-divider">
-
+<!--
 <h2 id="talks">Poster Presentations and Talks</h2>
 
 <div class="talk-entry">
@@ -118,7 +118,7 @@ title: Research
     <a href="https://github.com/joaosds/joaosds.github.io/blob/master/files/innsbruck2022_csl_joaoa.pdf" target="_blank">Slides</a>
   </div>
 </div>
-
+-->
 <hr class="section-divider">
 
 <h2 id="misc">Misc</h2>
@@ -156,8 +156,9 @@ title: Research
   </div>
 </div>
 
-<hr class="section-divider">
 
+<!--
+<hr class="section-divider">
 <h2 id="teaching">Teaching Experience</h2>
 
 <div class="teaching-entry">
@@ -284,3 +285,4 @@ title: Research
     Organized by Prof. Guy Grebot, University of Brasília.
   </div>
 </div>
+-->
