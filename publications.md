@@ -141,7 +141,7 @@ title: Research
     <br>
     <a href="https://mcgill3body.github.io/" target="_blank">McGill Physics Hackathon 2021</a>
     <br>
-    <span class="collaborators">With F. Fontinele, P.H. Cintra, I. Reis and V. Dantas.</span>
+    <span class="collaborators">With F. Fontinele, <a href="https://pedrohpcintra.github.io/" target="_blank">P.H. Cintra </a>, I. Reis and V. Dantas.</span>
   </div>
 </div>
 
