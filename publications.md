@@ -141,7 +141,7 @@ title: Research
     <br>
     <a href="https://mcgill3body.github.io/" target="_blank">McGill Physics Hackathon 2021</a>
     <br>
-    <span class="collaborators">With <a href = "https://scholar.google.com/citations?hl=pt-BR&user=VsRWtTgAAAAJ"target="_blank"> F. Fontinele </a>, <a href="https://pedrohpcintra.github.io/" target="_blank">P.H. Cintra</a>,  <a href="https://scholar.google.com/citations?user=KF6bVSYAAAAJ&hl=pt-BR" target="_blank"> I. Reis</a> and <a href="https://scholar.google.com/citations?hl=pt-BR&user=3EyKZSUAAAAJ" target="_blank"> V. Dantas</a>.</span>
+    <span class="collaborators">With <a href = "https://scholar.google.com/citations?hl=pt-BR&user=VsRWtTgAAAAJ" target="_blank"> F. Fontinele </a>, <a href="https://pedrohpcintra.github.io/" target="_blank">P.H. Cintra</a>,  <a href="https://scholar.google.com/citations?user=KF6bVSYAAAAJ&hl=pt-BR" target="_blank"> I. Reis</a> and <a href="https://scholar.google.com/citations?hl=pt-BR&user=3EyKZSUAAAAJ" target="_blank"> V. Dantas</a>.</span>
   </div>
 </div>
 
